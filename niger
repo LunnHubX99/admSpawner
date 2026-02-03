@@ -1,2 +1,3087 @@
--- This file was protected using Luraph Obfuscator v14.5.1 [https://lura.ph/]
-return(function(a,a,b,b,b,b,c,d,e,f,g,h,i,j,k,l,m,m,m,n,n,n,n,n,n,o,o,o,o,o,o,o,o)local p,q,r,s,t,u,v,w,x,y,z,ba,bb,bc,bd,be,bf,bg,bh,bi,bj,bk,bl,bm,bn,bo,bp,bq,br,bs,bt,bu,bv,bw,bx,by,bz,ca local cb={}local cc={}cc[1]=2 cc[2]=4 cc[3]=2 local cd=-37396 local ce=0 repeat if cd<=22832 then if cd>=-28275 then if cd<=-22883 then if cd>=-25834 then if cd>=-25323 then if cd~=-22883 then w=q and q[(function(cf,cg)local ch local ci={}local cj={}local function ck(cl,cm)cj[cm]=cl;return cj[cm]end local cl={}cl[1]=3 cl[2]=2 cl[3]=1 local cl=0 local cl=30710 repeat if cl<=-28083 then if cl<-28083 then ch=ci[19]for cm=1,#cf do local cf=e(cf,cm)ch[cm]=o(d(37,99),(cf-(cg+cm))%256)end return i(ch)else cl=ci[20]end else if cl==30710 then ci[19]={}ci[20]=cj[30710+184469]or ck(-47336,30710+184469)cl=-28083 else break end end until cl==58906 end)("\142\150\140\142\140\155",33)]or function(cf,cg)if cg<0 then return x(cf,-cg)end return(cf*2^cg)%r;end x=q and q[(function(cf,cg)local ch local ci={}local cj={}local function ck(cl,cm)cj[cm]=cl;return cj[cm]end local cl={}cl[1]=0 cl[2]=4 cl[3]=0 local cl=0 local cl=-28386 repeat if cl>=42045 then if cl<51508 then cl=ci[22]else ch=ci[21]for cm=1,#cf do local cf=e(cf,cm)ch[cm]=o(d(37,99),(cf-(cg+cm))%256)end return i(ch)end else if cl==-47231 then break else ci[21]={}ci[22]=cj[-28386+170808]or ck(51508,-28386+170808)cl=42045 end end until cl==-47231 end)("\165\167\157\159\157\172",50)]or function(cf,cg)if cg<0 then return w(cf,-cg)end return j(cf%r/2^cg)end cc[1]=(cc[1]+1)%5 ce,cd=69762,69762 else bq=function(cf)local cg,ch local ci={}local cj={}local function ck(cl,cm)cj[cm]=cl;return cj[cm]end local cl={}cl[1]=0 cl[2]=3 cl[3]=0 local cl=73371 local cm=0 repeat if cl>=57965 then if cl<=57965 then if(cg%2)==0 then return ch;end;return-ch-1;else cg=bp(cf)ch=j(cg/2)ci[40]=cj[73371+22789]or ck(57965,73371+22789)cl=31415 end else if cl==-46682 then break else cl=ci[40]end end until cl==-46682 end cd=23023 end else break end else if cd~=-25973 then r=2^32 cd=49586 else bs=function(cf)local cf,cg=e(cf,bh,bh+1)bh=bh+2;return((cg*256)+cf);end ce,cd=30310,30310 end end else if cd<=-18676 then if cd<=-21108 then bo=nil ce,cd=37416,37416 else if cd<-18676 then bp=nil cd=26750 else bk=function(cf)local cg=0 for ch=0,2 do cg=v(cg,w(e(cf,bh,bh),8*ch));bh=bh+1;end;return cg;end ce,cd=-33069,-33069 end end else if cd<=-15789 then t=function(cf,cg,ch)local ci=ch-cg+1 if ci>7997 then return s(cf,cg,ch)else return m(cf,cg,ch)end end ce,cd=28839,28839 else if cd<=-11571 then bd=setfenv ce,cd=29845,29845 else bu=nil do bu=function(m)local bd={[4802]={},[7164]={},[3363]={},[6330]={},[8966]={},[8186]={},[1902]={},}local cf cf=bp(m)local cg={}local ch,ci,cj,ck ch,ci,cj,ck=0,0,0,0 do local cl=(1)local cm=(1)local cf=(cf)if cm>=0 then while cl<=cf do local cn={}do cn[7895]=bp(m);end local co=(1)==(bn(m))local cp=bn(m)==1 local cq=bn(m)==1 local cr cr=bn(m)do if cr==1 then local cs,ct,cu,cv,cw,cx,cy local cz={}local da={}local function db(dc,dd)da[dd]=dc;return da[dd]end local dc={}dc[1]=0 dc[2]=4 dc[3]=0 local dc=0 local dd=-34285 repeat if dd>=-18505 then if dd<=-10836 then if dd>=-12431 then if dd<=-12431 then dc,dd=cz[74],cz[74]else cn[1372]=cu cn[4471]=cv cz[77]=da[-10836+227397]or db(54934,-10836+227397)dc,dd=-32535,-32535 end else if dd<=-18505 then dd=cz[72]else ct=cz[68]cu=cz[69]cv=cz[70]cw,cx,cy=0,0,0 cz[75]=da[-13047+96326]or db(33130,-13047+96326)dc,dd=-31877,-31877 end end else if dd>=55077 then if dd<61009 then cz[69]={}cz[72]=da[55077+96326]or db(-38122,55077+96326)dd=-18505 else dd=cz[76]end else if dd<54934 then for de=0,cs-1 do local df={}local dg={}local function dh(di,dj)dg[dj]=di;return dg[dj]end local di={}di[1]=1 di[2]=3 di[3]=0 local dj=0 local dk=33371 repeat if dk>=33371 then if dk<=33371 then do cw=cw+bq(m);cx=cx+bq(m);end do cy=cy+bq(m);end bc(ct,de,cw)bc(cu,de,cx)df[42]=dg[33371+191491]or dh(-48943,33371+191491)dj,dk=20891,20891 else if dk<89092 then break else dj,dk=df[43],df[43]end end else if dk~=20891 then cv[de]=cy di[1]=(di[1]+1)%5 df[43]=dg[-48943+60420]or dh(56829,-48943+60420)dj,dk=89092,89092 else dj,dk=df[42],df[42]end end until dk==56829 end;cn[4216]=ct cz[76]=da[33130+96326]or db(-10836,33130+96326)dd=61009 else break end end end else if dd<=-37694 then if dd>=-38122 then if dd<=-38122 then cz[70]={}cz[73]=da[-38122+227397]or db(-37694,-38122+227397)dc,dd=-34832,-34832 else cs=nil cs=bs(m)ct=nil cz[74]=da[-37694+96326]or db(-13047,-37694+96326)dc,dd=-12431,-12431 end else dc,dd=cz[71],cz[71]end else if dd<=-34285 then if dd<=-34832 then dc,dd=cz[73],cz[73]else cz[68]={}cz[71]=da[-34285+227397]or db(55077,-34285+227397)dc,dd=-46538,-46538 end else if dd<=-32535 then dc,dd=cz[77],cz[77]else dc,dd=cz[75],cz[75]end end end end until dd==54934 elseif(2)==(cr)then local cs=bs(m)local ct={}local cu={}local cv,cw=0,0 do local cx=(1)local cy=(1)local cs=(cs)if cy>=0 then while cx<=cs do local cz={}local da={}local function db(dc,dd)da[dd]=dc;return da[dd]end local dc={}dc[1]=4 dc[2]=4 dc[3]=2 local dc=0 local dd=59557 repeat if dd<=-32982 then if dd<=-46334 then break else cx=cx+cy cz[45]=da[-32982+220027]or db(-46334,-32982+220027)dc,dd=72250,72250 end else if dd>=59557 then if dd~=72250 then cv=cv+bq(m)cw=cw+bq(m)ct[cx]=cv cu[cx]=cw cz[44]=da[59557+220027]or db(-32982,59557+220027)dd=56982 else dc,dd=cz[45],cz[45]end else dd=cz[44]end end until dd==-46334 end else while cx>=cs do local cs={}local cz={}local function da(db,dc)cz[dc]=db;return cz[dc]end local db={}db[1]=2 db[2]=2 db[3]=2 local dc=0 local dc=-33017 repeat if dc<=-14591 then if dc==-33017 then cv=cv+bq(m)cw=cw+bq(m)ct[cx]=cv cs[46]=cz[-33017+152621]or da(64007,-33017+152621)dc=-14591 else dc=cs[46]end else if dc>=62479 then if dc<=62479 then dc=cs[47]else cu[cx]=cw cx=cx+cy db[1]=(db[1]+1)%5 cs[47]=cz[64007+152621]or da(44729,64007+152621)dc=62479 end else break end end until dc==44729 end end end do bc(cn,4216,ct)cn[1372]=cu;end elseif cr==3 then local cs,ct,cu local cv={}local cw={}local function cx(cy,cz)cw[cz]=cy;return cw[cz]end local cy={}cy[1]=3 cy[2]=3 cy[3]=1 local cz=0 local da=-44559 repeat if da>=-16502 then if da>=36878 then if da<48266 then cz,da=cv[49],cv[49]else for db=1,cs do cu=cu+bq(m);ct[db]=cu;end;bc(cn,4216,ct)cv[51]=cw[48266+199868]or cx(-31699,48266+199868)da=-32594 end else if da<29621 then da=cv[50]else cs=bs(m)ct=cv[48]cu=0 cy[3]=(cy[3]+1)%5 cv[50]=cw[29621+68797]or cx(48266,29621+68797)da=-16502 end end else if da>=-32594 then if da<=-32594 then da=cv[51]else break end else cv[48]={}cv[49]=cw[-44559+199868]or cx(29621,-44559+199868)cz,da=36878,36878 end end until da==-31699 elseif cr==4 then local cr,cs,ct,cu,cv,cw,cx,cy,cz local da={}local db={}local function dc(dd,de)db[de]=dd;return db[de]end local dd={}dd[1]=3 dd[2]=3 dd[3]=1 local de=0 local df=76772 repeat if df>=-11070 then if df<=57834 then if df<=32678 then if df<=-11070 then break else df=da[64]end else if df<=48762 then de,df=da[61],da[61]else cn[4216]=cs do bc(cn,1372,ct)cn[4471]=cu;end do cn[3548]=cv;end da[64]=db[57834+151523]or dc(-11070,57834+151523)df=32678 end end else if df<=62449 then if df==57875 then cr=nil cr=bs(m)cs=da[54]ct=da[55]da[62]=db[57875+20452]or dc(-21602,57875+20452)df=77155 else df=da[58]end else if df==76772 then da[54]={}de=dd[3]~=1 and 57875 or-41814 dd[3]=(dd[3]+1)%5 da[58]=db[76772+151523]or dc(-41814,76772+151523)df=62449 else df=da[62]end end end else if df>=-31122 then if df>=-18866 then if df<-16370 then de,df=da[60],da[60]else da[57]={}da[61]=db[-16370+20452]or dc(57875,-16370+20452)de,df=48762,48762 end else if df<=-31122 then df=da[63]else cu=da[56]cv=da[57]cw,cx,cy,cz=0,0,0,0 for dg=1,cr do local cr={}local dh={}local function di(dj,dk)dh[dk]=dj;return dh[dk]end local dj={}dj[1]=3 dj[2]=4 dj[3]=0 local dj=34288 local dk=0 repeat if dj>=-14195 then if dj<=-14195 then dj=cr[53]else if dj<34288 then dk,dj=cr[52],cr[52]else cw=cw+bq(m)cx=cx+bq(m)do cy=cy+bq(m);cz=cz+bq(m);end do cs[dg]=cw;end cr[52]=dh[34288+59704]or di(-19419,34288+59704)dk,dj=32401,32401 end end else if dj<-19419 then break else do ct[dg]=cx;cu[dg]=cy;end bc(cv,dg,cz)cr[53]=dh[-19419+190775]or di(-23745,-19419+190775)dj=-14195 end end until dj==-23745 end;da[63]=db[-21602+151523]or dc(57834,-21602+151523)df=-31122 end end else if df<=-46387 then da[56]={}de=dd[2]==0 and 57875 or-16370 da[60]=db[-46387+20452]or dc(-16370,-46387+20452)de,df=-18866,-18866 else if df~=-35571 then da[55]={}da[59]=db[-41814+151523]or dc(-46387,-41814+151523)de,df=-35571,-35571 else de,df=da[59],da[59]end end end end until df==-11070 else local cr={}local cs={}local function ct(cu,cv)cs[cv]=cu;return cs[cv]end local cu={}cu[1]=1 cu[2]=3 cu[3]=0 local cv=-37176 local cw=0 repeat if cv>=21046 then if cv<=22704 then if cv<=21046 then break else cw,cv=cr[65],cr[65]end else if cv==50843 then cw,cv=cr[67],cr[67]else cn[4471]=cj do bc(cn,3548,ck)end cr[67]=cs[64065+177252]or ct(21046,64065+177252)cw,cv=50843,50843 end end else if cv>=-32642 then if cv<=-32642 then cw,cv=cr[66],cr[66]else do cj=cj+bq(m);ck=ck+bq(m);end cn[4216]=ch do bc(cn,1372,ci)end cr[66]=cs[-30751+177252]or ct(64065,-30751+177252)cw,cv=-32642,-32642 end else ch=ch+bq(m)ci=ci+bq(m)cu[1]=(cu[1]+1)%5 cr[65]=cs[-37176+46181]or ct(-30751,-37176+46181)cw,cv=22704,22704 end end until cv==21046 end bc(cn,7058,co)end cn[6727]=cp;do cn[2990]=cq;end cn[6829]=cg[cl-1];cg[cl]=cn;cl=cl+cm end else while cl>=cf do local cf={}do cf[7895]=bp(m);end local cn=(1)==(bn(m))local co=bn(m)==1 local cp=bn(m)==1 local cq cq=bn(m)do if cq==1 then local cr,cs,ct,cu,cv,cw,cx local cy={}local cz={}local function da(db,dc)cz[dc]=db;return cz[dc]end local db={}db[1]=1 db[2]=0 db[3]=0 local db=-12791 local dc=0 repeat if db<=-13822 then if db>=-20535 then if db<=-20535 then break else if db==-18714 then cy[108]={}cy[111]=cz[-18714+162603]or da(-49405,-18714+162603)db=48015 else db=cy[114]end end else if db<=-49405 then cr=nil cr=bs(m)cs=nil cs=cy[106]cy[112]=cz[-49405+31532]or da(86440,-49405+31532)dc,db=29986,29986 else if db~=-24560 then cf[4216]=cs cf[1372]=ct cf[4471]=cu cy[114]=cz[-32146+31532]or da(-20535,-32146+31532)db=-13822 else cy[107]={}cy[110]=cz[-24560+31532]or da(-18714,-24560+31532)dc,db=83336,83336 end end end else if db>=48015 then if db>=83336 then if db<86440 then dc,db=cy[110],cy[110]else ct=cy[107]cu=cy[108]cv,cw,cx=0,0,0 for dd=0,cr-1 do local cr={}local de={}local function df(dg,dh)de[dh]=dg;return de[dh]end local dg={}dg[1]=1 dg[2]=4 dg[3]=1 local dg=0 local dg=21858 repeat if dg>=21858 then if dg>=32088 then if dg~=72518 then dg=cr[79]else bc(cs,dd,cv)bc(ct,dd,cw)cu[dd]=cx cr[79]=de[72518+143493]or df(-36145,72518+143493)dg=32088 end else do cv=cv+bq(m);cw=cw+bq(m);end do cx=cx+bq(m);end cr[78]=de[21858+143493]or df(72518,21858+143493)dg=-17309 end else if dg==-36145 then break else dg=cr[78]end end until dg==-36145 end;cy[113]=cz[86440+162603]or da(-32146,86440+162603)db=-11087 end else if db<=48015 then db=cy[111]else db=cy[109]end end else if db>=-11087 then if db==-11087 then db=cy[113]else dc,db=cy[112],cy[112]end else cy[106]={}cy[109]=cz[-12791+31532]or da(-24560,-12791+31532)db=77919 end end end until db==-20535 elseif(2)==(cq)then local cr=bs(m)local cs={}local ct={}local cu,cv=0,0 do local cw=(1)local cx=(1)local cr=(cr)if cx>=0 then while cw<=cr do local cy={}local cz={}local function da(db,dc)cz[dc]=db;return cz[dc]end local db={}db[1]=4 db[2]=3 db[3]=3 local db=87046 local dc=0 repeat if db<=-43065 then if db==-44848 then dc,db=cy[81],cy[81]else cs[cw]=cu ct[cw]=cv cw=cw+cx cy[81]=cz[-43065+151638]or da(-34480,-43065+151638)dc,db=-44848,-44848 end else if db>=-30577 then if db<87046 then dc,db=cy[80],cy[80]else cu=cu+bq(m)cv=cv+bq(m)cy[80]=cz[87046+20567]or da(-43065,87046+20567)dc,db=-30577,-30577 end else break end end until db==-34480 end else while cw>=cr do local cr={}local cy={}local function cz(da,db)cy[db]=da;return cy[db]end local da={}da[1]=3 da[2]=2 da[3]=2 local da=0 local db=-19091 repeat if db>=-46195 then if db<=-46195 then ct[cw]=cv cw=cw+cx cr[83]=cy[-46195+69577]or cz(-46496,-46195+69577)da,db=-46833,-46833 else if db==-19091 then cu=cu+bq(m)cv=cv+bq(m)cs[cw]=cu cr[82]=cy[-19091+200648]or cz(-46195,-19091+200648)da,db=22658,22658 else da,db=cr[82],cr[82]end end else if db==-46833 then da,db=cr[83],cr[83]else break end end until db==-46496 end end end do bc(cf,4216,cs)cf[1372]=ct;end elseif cq==3 then local cr,cs,ct local cu={}local cv={}local function cw(cx,cy)cv[cy]=cx;return cv[cy]end local cx={}cx[1]=4 cx[2]=4 cx[3]=2 local cy=0 local cy=81060 repeat if cy<=39953 then if cy<=-20840 then cy=cu[87]else if cy<39953 then bc(cf,4216,cs)cx[1]=(cx[1]+1)%5 cu[87]=cv[-13533+174220]or cw(78471,-13533+174220)cy=-20840 else cr=bs(m)cs=cu[84]ct=0 for cx=1,cr do ct=ct+bq(m);cs[cx]=ct;end;cu[86]=cv[39953+174220]or cw(-13533,39953+174220)cy=40414 end end else if cy<=78471 then if cy<=40414 then cy=cu[86]else break end else if cy~=81060 then cy=cu[85]else cu[84]={}cu[85]=cv[81060+174220]or cw(39953,81060+174220)cy=78701 end end end until cy==78471 elseif cq==4 then local cq,cr,cs,ct,cu,cv,cw,cx,cy local cz={}local da={}local function db(dc,dd)da[dd]=dc;return da[dd]end local dc={}dc[1]=0 dc[2]=3 dc[3]=1 local dd=0 local de=22752 repeat if de>=38084 then if de>=47088 then if de<=64129 then if de<=47088 then de=cz[101]else dd,de=cz[102],cz[102]end else if de<=81134 then dd,de=cz[96],cz[96]else if de==87283 then cs=cz[92]ct=cz[93]cu=cz[94]cv,cw,cx,cy=0,0,0,0 dd=dc[1]~=1 and-27608 or-34563 dc[2]=(dc[2]+1)%5 cz[100]=da[87283+228774]or db(-34563,87283+228774)de=44164 else dd,de=cz[98],cz[98]end end end else if de>=39312 then if de==39312 then de=cz[99]else de=cz[100]end else if de~=38158 then cq=nil cq=bs(m)cr=cz[91]cz[99]=da[38084+97703]or db(87283,38084+97703)de=39312 else cz[94]={}cz[98]=da[38158+228774]or db(38084,38158+228774)dd,de=87885,87885 end end end else if de>=-27608 then if de<=-14243 then if de~=-14243 then do bc(cf,1372,cs)cf[4471]=ct;end do cf[3548]=cu;end cz[102]=da[-27608+228774]or db(-46390,-27608+228774)dd,de=64129,64129 else cz[92]={}cz[96]=da[-14243+97703]or db(-44758,-14243+97703)dd,de=81134,81134 end else if de==21717 then dd,de=cz[95],cz[95]else cz[91]={}cz[95]=da[22752+228774]or db(-14243,22752+228774)dd,de=21717,21717 end end else if de>=-35086 then if de~=-34563 then de=cz[97]else for dd=1,cq do local cq={}local df={}local function dg(dh,di)df[di]=dh;return df[di]end local dh={}dh[1]=2 dh[2]=1 dh[3]=3 local di=32292 local dj=0 repeat if di<=50399 then if di>=32292 then if di==32292 then cv=cv+bq(m)cw=cw+bq(m)do cx=cx+bq(m);cy=cy+bq(m);end dj=dh[1]~=0 and 61975 or 50399 cq[88]=df[32292+23076]or dg(50399,32292+23076)di=-36986 else do cr[dd]=cv;end do cs[dd]=cw;ct[dd]=cx;end cq[89]=df[50399+23076]or dg(61975,50399+23076)dj,di=53672,53672 end else di=cq[88]end else if di>=63508 then if di~=66285 then di=cq[90]else break end else if di<61975 then dj,di=cq[89],cq[89]else bc(cu,dd,cy)dh[3]=(dh[3]+1)%5 cq[90]=df[61975+154147]or dg(66285,61975+154147)di=63508 end end end until di==66285 end;cf[4216]=cr cz[101]=da[-34563+228774]or db(-27608,-34563+228774)de=47088 end else if de==-46390 then break else cz[93]={}dc[2]=(dc[2]+1)%5 cz[97]=da[-44758+97703]or db(38158,-44758+97703)de=-35086 end end end end until de==-46390 else local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=1 ct[2]=3 ct[3]=3 local cu=0 local cv=-49661 repeat if cv>=-35589 then if cv>=72980 then if cv<=72980 then do cj=cj+bq(m);ck=ck+bq(m);end cf[4216]=ch do bc(cf,1372,ci)end cf[4471]=cj ct[3]=(ct[3]+1)%5 cq[104]=cr[72980+223759]or cs(-40645,72980+223759)cu,cv=60561,60561 else cv=cq[103]end else if cv<=-35589 then cu,cv=cq[105],cq[105]else cu,cv=cq[104],cq[104]end end else if cv<=-49661 then ch=ch+bq(m)ci=ci+bq(m)cq[103]=cr[-49661+223759]or cs(72980,-49661+223759)cv=74563 else if cv~=-40645 then break else do bc(cf,3548,ck)end cq[105]=cr[-40645+92688]or cs(-49134,-40645+92688)cu,cv=-35589,-35589 end end end until cv==-49134 end bc(cf,7058,cn)end cf[6727]=co;do cf[2990]=cp;end cf[6829]=cg[cl-1];cg[cl]=cf;cl=cl+cm end end end bd[4802]=cg;bd[5182]=bp(m);local cf=bp(m)local cg={}do for ch=0,cf-1 do local cf=bn(m)do if(0)==(cf)then local ci ci=bn(m)do if ci==0 then local ci,cj local ck={}local cl={}local function cm(cn,co)cl[co]=cn;return cl[co]end local cn={}cn[1]=0 cn[2]=3 cn[3]=2 local cn=81609 local co=0 repeat if cn>=54569 then if cn<=54569 then bh=bh+ci bc(cg,ch,cj)ck[116]=cl[54569+70490]or cm(-35720,54569+70490)co,cn=-35294,-35294 else if cn~=85889 then ci=bp(m)cj=b(m,bh,bh+ci-1)ck[115]=cl[81609+70490]or cm(54569,81609+70490)cn=85889 else cn=ck[115]end end else if cn==-35720 then break else co,cn=ck[116],ck[116]end end until cn==-35720 end;end elseif cf==1 then local ci=bn(m)if ci==1 then do cg[ch]=bq(m);end else bc(cg,ch,bt(m))end;elseif cf==2 then local ci ci=bn(m)cg[ch]=((ci==1)and(bp(m))or(bi(m)))elseif cf==3 then cg[ch]=bo(m);elseif cf==4 then local ci=bn(m)if ci==1 then do cg[ch]=bq(m);end else cg[ch]=bo(m);end;elseif cf==5 then bc(cg,ch,not((bn(m))~=(1)))else cg[ch]=nil;end;end end;bc(bd,7164,cg)end for cf=1,bp(m)do bd[6330][cf-1]=bu(m);end;local cf=bp(m)local cg={}for ch=0,cf-1 do local cf,ci local cj={}local ck={}local function cl(cm,cn)ck[cn]=cm;return ck[cn]end local cm={}cm[1]=0 cm[2]=4 cm[3]=0 local cn=0 local co=-22769 repeat if co>=23826 then if co>=64610 then if co==64610 then do do local cp=(1)local cq=(1)local cr=(ci)if cq>=0 then while cp<=cr do cf[cp]=bp(m);cp=cp+cq end else while cp>=cr do cf[cp]=bp(m);cp=cp+cq end end end cg[ch]=cf;end cj[120]=ck[64610+154203]or cl(-49498,64610+154203)cn,co=23826,23826 else cf=nil cf=cj[117]ci=bp(m)cj[119]=ck[71609+23132]or cl(64610,71609+23132)co=-15576 end else if co~=61387 then cn,co=cj[120],cj[120]else cn,co=cj[118],cj[118]end end else if co<=-49498 then break else if co==-22769 then cj[117]={}cn=cm[3]==0 and 64610 or 71609 cm[2]=(cm[2]+1)%5 cj[118]=ck[-22769+154203]or cl(71609,-22769+154203)cn,co=61387,61387 else co=cj[119]end end end until co==-49498 end;do bc(bd,4376,cg)bd[3363]=bn(m);end local cf=(0)~=(bn(m))if cf then local cf,cg,ch local ci={}local cj={}local function ck(cl,cm)cj[cm]=cl;return cj[cm]end local cl={}cl[1]=1 cl[2]=3 cl[3]=2 local cl=62581 local cm=0 repeat if cl>=67932 then if cl>=79922 then if cl<89316 then cm,cl=ci[125],ci[125]else break end else if cl~=71982 then cm,cl=ci[126],ci[126]else cf=bp(m)cg=ci[124]ch=0 ci[126]=cj[71982+189843]or ck(-29072,71982+189843)cm,cl=67932,67932 end end else if cl>=-29072 then if cl==-29072 then do for cn=1,cf do local cf,cn,co,cp local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=3 ct[2]=3 ct[3]=4 local cu=22492 local cv=0 repeat if cu>=-26178 then if cu<=-20350 then if cu==-26178 then co=bq(m)cp=ch+co ch=cp cq[122]=cr[-26178+212430]or cs(-20350,-26178+212430)cu=62649 else c(cg,{cn,cp})cq[123]=cr[-20350+81359]or cs(-26830,-20350+81359)cv,cu=-41706,-41706 end else if cu<=22492 then cf=bn(m)~=0 cn=cf and 1 or 0 co=nil cv=ct[3]~=1 and-20350 or-26178 cq[121]=cr[22492+81359]or cs(-26178,22492+81359)cv,cu=-28828,-28828 else cu=cq[122]end end else if cu<=-41706 then cv,cu=cq[123],cq[123]else if cu==-28828 then cv,cu=cq[121],cq[121]else break end end end until cu==-26830 end bc(bd,1902,cg)end ci[127]=cj[-29072+189843]or ck(89316,-29072+189843)cm,cl=-38840,-38840 else ci[124]={}ci[125]=cj[62581+58772]or ck(71982,62581+58772)cm,cl=79922,79922 end else cm,cl=ci[127],ci[127]end end until cl==89316 end;do bc(bd,8966,bn(m)==1)end local cf=bp(m)local cg={}local ch ch=0 for ci=1,cf do local cf,ci,cj,ck,cl local cm={}local cn={}local function co(cp,cq)cn[cq]=cp;return cn[cq]end local cp={}cp[1]=0 cp[2]=1 cp[3]=2 local cp=-27138 local cq=0 repeat if cp>=64692 then if cp<=66040 then if cp~=66040 then ck=ch+cj ch=ck cm[129]=cn[64692+66073]or co(82021,64692+66073)cq,cp=66040,66040 else cq,cp=cm[129],cm[129]end else if cp<82021 then break else cl=bn(m)c(cg,{ci,ck,cl})cm[130]=cn[82021+197144]or co(79764,82021+197144)cp=53424 end end else if cp<=-27138 then cf=bn(m)~=0 ci=cf and 1 or 0 cj=bq(m)cm[128]=cn[-27138+66073]or co(64692,-27138+66073)cp=-22395 else if cp<53424 then cp=cm[128]else cp=cm[130]end end end until cp==79764 end bd[8186]=cg do return bd;end end;end cc[3]=(cc[3]+1)%5 cd=28832 end end end end else if cd>=-37396 then if cd<=-34884 then if cd>=-36922 then if cd==-36922 then bf=function(c)local m,bd,cf,cg=nil,nil,nil,nil local ch={}for ci=0,255 do ch[ci]=d(ci);end;local function ci(cj)local ck=-1 local cl=256 local cm=257 local cn=258 local co=259 local cp=260 local cq=#cj local cr=1 local cs=0 local ct=0 local function cu(cv)while ct<cv and cr<=cq do local cj=e(cj,cr)cr=cr+1;cs=cs+w(cj,ct);ct=ct+8;end;end;local function cj()if ct==0 then cu(1);end;local cq=y(cs,1)cs=x(cs,1);ct=ct-1;return cq;end;local function cq(cr)if cr<=0 then return 0;end;cu(cr);local cu=w(1,cr)-1 local cu=y(cs,cu)cs=x(cs,cr);ct=ct-cr;return cu;end;local function cr()local cs=0 while cj()==0 do cs=cs+1;if cs>31 then break;end;end;if cs==0 then return 1;end;local ct=1 for cu=1,cs do ct=ct*2+cj();end;return ct;end;local function cs(ct)local cu=0 while cj()==0 do cu=cu+1;end;if ct==0 then return cu;end;local cv=cq(ct)return cu*(2^ct)+cv;end;local function ct(cu)local cv={}local function cw(cx,cy,cz)local da=cv for db=cy-1,0,-1 do local cx=y(x(cx,db),1)if not da[cx]then da[cx]={};end;da=da[cx];end;da[ck]=cz;end;local cx=cr()-1 if cx<=0 then return cv;end;local cy=0 local cz={}local da=-1 local db=0 for dc=1,cx do local cx if cu then if dc==1 then cx=cq(8);else local cu=cr()cx=da+cu;end;else local cu=cr()if dc==1 then cx=cu-1;else cx=da+cu;end;end;local cu if dc==1 then cu=cr();else local dc=cj()if dc==1 then cu=db;else cu=cr();end;end;if cu>cy then cy=cu;end;local cr=cz[cu]if cr==nil then cr={};cz[cu]=cr;end;cr[#cr+1]=cx;da=cx;db=cu;end;local cr=0 local cu=0 for cx=1,cy do local cy=cz[cx]if cy~=nil then n(cy);if cx>cu then cr=w(cr,cx-cu);cu=cx;end;for n=1,#cy do cw(cr,cx,cy[n]);cr=cr+1;end;end;end;return cv;end;local function n(cr)local cr=cr while true do local cu=cj()cr=cr[cu];if not cr then return;end;local ck=cr[ck]if ck~=nil then return ck;end;end;end;local ck=ct(false)local cr=ct(false)local cu=ct(false)local cv=ct(true)local ct=ct(true)local cw=cq(2)local cx,cy,cz,da if cw==0 then cx=m or 0;cy=bd or 0;cz=cf or 0;da=cg or 0;elseif cw==1 then local cw={[-1]=0,[0]=1,[1]=2,[2]=3}local cw={[0]=-1,[1]=0,[2]=1,[3]=2}local db=cw[cq(2)]local dc=cw[cq(2)]local dd=cw[cq(2)]local cw=cw[cq(2)]cx=(m or 0)+db;cy=(bd or 0)+dc;cz=(cf or 0)+dd;da=(cg or 0)+cw;m,bd,cf,cg=cx,cy,cz,da;else cx=cq(4);cy=cq(4);cz=cq(4);da=cq(4);m,bd,cf,cg=cx,cy,cz,da;end;local m={}local bd=0 local cf=false local cg=false while true do local ck=cg and cu or(cf and cr or ck)local ck=n(ck)if ck==nil then break;end;if ck==cp then break;end;if ck==cl then local cl=cf and ct or cv local cl=n(cl)if cl==nil then break;end;local cp=cj()local cp=cs(cp==0 and cz or da)+1 local cr=ch[cl]bd=bd+1;m[bd]=h(cr,cp);cf=(cl==0);cg=true;elseif ck==cm then local cj=cj()local cj=cs(cj==0 and cx or cy)+1 local cl=ch[0]bd=bd+1;m[bd]=h(cl,cj);cf=true;cg=true;elseif ck==cn then local cj=2+cq(5)local cl=ch[0]bd=bd+1;m[bd]=h(cl,cj);cf=true;cg=true;elseif ck==co then local cj=cf and ct or cv local n=n(cj)if n==nil then break;end;local cj=2+cq(3)local cl=ch[n]bd=bd+1;m[bd]=h(cl,cj);cf=(n==0);cg=true;else bd=bd+1;m[bd]=ch[ck];cf=(ck==0);cg=false;end;end;return i(m);end;local function h(m)local n={}local bd=256 local cf={}for cg=1,bd do cf[cg]={};for bd=0,255 do cf[cg][bd+1]=bd;end;end;local bd=0 local cg=#m for cj=1,cg do local cg=bd+1 local cf=cf[cg]local m=e(m,cj)+1 local cg=cf[m]n[cj]=ch[cg];if m>1 then p(cf,1,m-1,2);cf[1]=cg;end;bd=cg;end;return i(n);end;local function m(n,bd)local cf=#n if cf==0 then return"";end;bd=bd+1;local cg=ba(cf)local cj={}local ck=ba(256)for cl=1,cf do local cl=e(n,cl)cj[cl]=(cj[cl]or 0)+1;end;local cl=1 for cm=0,255 do local cj=cj[cm]or 0 ck[cm]=cl;cl=cl+cj;end;for cj=1,cf do local cl=e(n,cj)local cm=ck[cl]cg[cm]=cj;ck[cl]=cm+1;end;local cj=ba(cf)local bd=bd for ck=1,cf do bd=cg[bd];cj[ck]=ch[e(n,bd)];end;return i(cj);end;local c=be(c)local n={}local bd=0 local cf=1 local cg=#c while cf+7<=cg do local ch,cj,ck,cl=e(c,cf,cf+3)local ch=ch+cj*256+ck*65536+cl*16777216 cf=cf+4;local cj,ck,cl,cm=e(c,cf,cf+3)local cj=cj+ck*256+cl*65536+cm*16777216 cf=cf+4;if cf+cj-1>cg then break;end;local c=b(c,cf,cf+cj-1)cf=cf+cj;local c=ci(c)local c=h(c)local c=m(c,ch)bd=bd+1;n[bd]=c;end;return i(n);end ce=cc[1]~=1 and 82033 or 64849 ce,cd=64849,64849 else bs=nil cd=-25973 end else cb[134]={}cd=69063 end else if cd<=-33069 then bl=nil cd=88155 else if cd<-29249 then bb=cb[134]bc=rawset cd=-11571 else bm=nil cc[3]=(cc[3]+1)%5 ce,cd=46655,46655 end end end else if cd<=-45660 then if cd<=-48865 then bt=function(c)local h=br(c)local c=br(c)if c==0 then return h;elseif(c>=2147483648)then c=c-4294967296;end;return c*4294967296+h;end ce,cd=22832,22832 else p=table and table.move or function(c,h,m,n,bb)local bc={}local bd={}local function bs(cf,cg)bd[cg]=cf;return bd[cg]end local cf={}cf[1]=2 cf[2]=2 cf[3]=4 local cg=22834 local ch=0 repeat if cg<=22834 then if cg==-34442 then ch,cg=bc[4],bc[4]else bb=bb or c n=n+m cf[2]=(cf[2]+1)%5 bc[4]=bd[22834+62409]or bs(25417,22834+62409)ch,cg=-34442,-34442 end else if cg<30189 then for bc=m,h,-1 do local h={}local m={}local function bd(bs,cf)m[cf]=bs;return m[cf]end local bs={}bs[1]=2 bs[2]=3 bs[3]=2 local bs=0 local cf=63805 repeat if cf<=-14313 then if cf~=-14313 then cf=h[3]else bs,cf=h[2],h[2]end else if cf<=63805 then n=n-1 h[1]=c[bc]h[2]=m[63805+189625]or bd(71400,63805+189625)bs,cf=-14313,-14313 else if cf<71400 then break else bb[n]=h[1]h[3]=m[71400+58554]or bd(64913,71400+58554)cf=-18538 end end end until cf==64913 end;return bb;else break end end until cg==30189 end q=bit32 or bit ce=cc[1]~=1 and 28839 or-28275 cc[2]=(cc[2]+1)%5 cd=-28275 end else if cd>=-38805 then if cd==-38805 then bj=nil cd=79436 else bk=nil ce,cd=-18676,-18676 end else bx=cb[135]ce=cc[2]==1 and 46924 or 80863 ce,cd=80863,80863 end end end end else if cd>=49586 then if cd<=69762 then if cd<=64849 then if cd<=49586 then s=function(c,h,m)if(h>m)then return end local n=m-h+1 do local p,bb local bc={}local bd={}local function bk(bs,bx)bd[bx]=bs;return bd[bx]end local bs={}bs[1]=4 bs[2]=3 bs[3]=0 local bx=0 local cf=61991 repeat if cf>=34201 then if cf>=54234 then if cf<=61991 then if cf~=61991 then cf=bc[10]else p=0 bb=0 if bb==0 and n>=8 then p=15056 bb=1 end bc[5]=bd[61991+225198]or bk(62364,61991+225198)cf=-17958 end else if cf~=75142 then if bb==0 and n>=7 then p=41725 bb=1 end if bb==0 and n>=6 then p=35071 bb=1 end if bb==0 and n>=5 then p=30523 bb=1 end bc[6]=bd[62364+225198]or bk(39203,62364+225198)bx,cf=-34162,-34162 else if bb==0 and n>=2 then p=19271 bb=1 end if bb==0 then p=36658 bb=1 end if p==15056 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],c[h+5],c[h+6],c[h+7],s(c,h+8,m)end if p==41725 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],c[h+5],c[h+6],s(c,h+7,m)end bx=bs[3]==1 and-18635 or 53860 bc[8]=bd[75142+94127]or bk(53860,75142+94127)cf=-35068 end end else if cf>=39203 then if cf~=53860 then if bb==0 and n>=4 then p=67289 bb=1 end if bb==0 and n>=3 then p=99866 bb=1 end bc[7]=bd[39203+94127]or bk(75142,39203+94127)bx,cf=-13189,-13189 else if p==35071 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],c[h+5],s(c,h+6,m)end if p==30523 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],s(c,h+5,m)end if p==67289 then return c[h],c[h+1],c[h+2],c[h+3],s(c,h+4,m)end bc[9]=bd[53860+225198]or bk(-18635,53860+225198)cf=-11980 end else break end end else if cf<=-18635 then if cf<=-35068 then cf=bc[8]else if cf<-18635 then bx,cf=bc[6],bc[6]else if p==99866 then return c[h],c[h+1],c[h+2],s(c,h+3,m)end if p==19271 then return c[h],c[h+1],s(c,h+2,m)end if p==36658 then return c[h],s(c,h+1,m)end bc[10]=bd[-18635+225198]or bk(34201,-18635+225198)cf=54234 end end else if cf<=-17958 then cf=bc[5]else if cf~=-11980 then bx,cf=bc[7],bc[7]else cf=bc[9]end end end end until cf==34201 end end ce,cd=-15789,-15789 else if cd==60198 then br=function(c)local h,m,n,p local s={}local bb={}local function bc(bd,bk)bb[bk]=bd;return bb[bk]end local bd={}bd[1]=2 bd[2]=4 bd[3]=2 local bd=68960 local bk=0 repeat if bd>=67031 then if bd~=68960 then break else h,m,n,p=e(c,bh,bh+3)bh=bh+4 s[41]=bb[68960+24748]or bc(31265,68960+24748)bk,bd=32145,32145 end else if bd<=31265 then return((p*16777216)+(n*65536)+(m*256)+h);else bk,bd=s[41],s[41]end end until bd==67031 end ce,cd=-34884,-34884 else bg=bf([==[d$=Y3b<Q%-JEP(;UEBBnruWF+irB&Y5NMkEs8W-!ruW`O+"H=nl9F@'53/D(L,rkD5NMhd.cgVb#l,S-%im.lLC"tNo`'^C6\d_pTgFM@'fsj<6\YM9TgOP5_hA$h_]8M;bb;q-rkf^69\@79%2W&!iBD';SR+2?iPHX2%hnBKL3!D8:057=-="V'EPV[%cB7=q5Q2i*s,`!A)'\-s$MgA^*[9[=%NF\#LC+n[<6.H*TgOPD*U4.UlHl47*B$UTs0,ouLC=nYCoG]h6AGpHLCFtZCoFS3_h8@9.WhVNTu)Noq4U.slB%]+*\-f;#ototfY[tEm.t-q:kDt?LXj9^qUMgD_g#9NLCn?iYbAsf%22dh/srmBb+`:\.YhH[*<cJNP8$$'lt@pgIpqm!Qln_M&>UG%$fY9E(Tnp7$c61:L'VKu&F/="#qcMHGR/UaiZU14C0V<B+:/29Jt,+TK+,"_S3W/Z("!R6#6GIRT`lir6,=U_FC^7O;'BV;,`sO-5]MpA&8G`@=9u#')%H^(&?I$G+Rk[Y,1-%F-jcqE1UeD(!&6F1\H"tS?pY&/CJgXm"@QX`8a)>q3FX08Ns1,;X%`VnD?=N24HrA[7=rfepL0%VR'ica&`n*_\Hi3Y1c(PN4i4-?*_o9r7B*<c]H@7M7,kRC'VZQpLWLgdXHQ7V!aA;&K?j)u)UAht)-/:7/4To`4<t3=;+Xe,AV^o$8cjeo7"CAZK6/:?][:]gE>(1W8O,7E7KKq(`@.s)0rnB.Fdu#IKSWQ8[6$L:'F;`a`_r<aFVO73d>\MHq^^t_[TRCAhI(/XF$cjiJqQ_o:&k]a+fD"\8<<g$ZdBgQM?<pq-;-/<Q5^!GR&$<.<<P"E#u]*g>c3MTi`bbF\J%C:E*Atm,)FSW*&C%WB-cV5N'`S&0S`,-GqG=Jpt.>8!#eQWVI\i'8;9Eo,*nW7,liQEla1=H>K09e#*!#'fs6@3l(6:fb:tmm1[CsckVAY;+\3G$=LY7N%>Hm+(\<o=a_4PYC+3<1M$,>4Q_L4B/1P.1KaE``KnYR9Mt3*J@98gd4<'BM%9l:/lg7a#`>FqqeW_YkjaCQ342uGU23r'3&>OUfTaG!EY[.c=)&6nV%tWji7C#p&ki8DV,+'?dOIf<9(":gD^h':bGgKth7-Hsk;+@064_Ir_,Vr"eTOjihi34Yc_aGp\%h:u2+t>rW"FM[+-38iTe<LG'Hd0hkW`:=0.ll;#H'q_,=J>$XYYq4$-mJ(lm$3j!abL(>=;3G-!#hiYKYCt'Z,/O8".[I9%+MFW)6E&e`"`V1S<oCiZ_bH2WW]P<_Rr+=P!CtW*.SScN"B[=F#1Dg'K$ZFZX^\g#n5f[8H9itYWuiR(F`F9,'-sfGJuVf<D;8o^fDe%>+0P1`&Q3O1`G0uVmaue4PqJO8/ra,=6f&oCA4*tl&!t2lu,S+qIuC:KpI\IXii62cmcu]f8<0F9&iSX7Y]8'Wfh1o4"I7]<`+g,_;0^=,Se/IEW:8PM\9Sb'[4H;@gYO=%lL]KL'M7R;mK(<Eq:hofW\UDBuI]Z4SCK7T?E$Sf["B<+&1TBasgpr)52m*:S*IW]1l(sT13me*&l%c"$qpEkY0*`\r!.LiiqE50UZJf((co@@KW>k(<em=0sFjh-Y5ad#k^f.1U\`iZ"Ia3;ggBH6gSk<ZU+3H&s?fNA&eKGY1.A8H=fts)Vt#/;C:i=0q!`/m"d0m9ggaf$bg5XHIOb$S-j(X9D:C#V%-F6OKr%(%nU`Ch$$`,A>I<URNni5'5Q05M87NG+GhjY$AM[`UD#XF(,>t\&->Z4FA\8n]B0T,7=qtM)/Ok^A0M;J9</F)8k9_dj2lpAI(g@E`g5E(jcV_7#DoeQAONDY+A!u@-5)9a,`!_0La5m.6m+6/3K]73&JIPQW[&,]3f$0m6&5PS@[oY6/rEXcZR@iLd@`7K>-:ug@V,l[6*k+p5a;s2K\ZWu'eUf-$E'kg;'Ibq$dkE]1+,h-2-IO\UMqqUV6L"IULt4<83f`J7O%.;TV+92<s5-B"5TiR+Xteh+Xg\#>?\FFcoNV4:u4bqd6g`s2(^-eCBT_GH:u'D."J+JH&di]`Qc-F%EDRKJ.U?H#9*oL*n<ieGBsTE_$fD*8kd@,lo@6ceXup[k)l`^V#dhYM?IUdoGn?C[flbqbG\/fe4!dgJ>"J03W[$9P+/-=AqGjpD]rF1N&4DO5gcCQ1*Y.lSiG\>+?3,$'h&H]:.bR%nWjJh9dX"5)1`>H:-&me5aMNQ%>r"F<L4A,OlZaH@6pFYq?f"l=+Ye7dmud!PEN_=.'K"2m.V+=PUHnPe+0NN>c]4t3>QEd.&0]DRi*/n<1%1#-WcC0Bphk_Yq?50":-<*TRmO`(aRKS&420b:=3Ta-r?-GR`nJUVDL]2#YV`19l>X*`5i!K1Wa^%j;(EaPDp@?WXo3B#>%DK1cNJ-7@2JTe<V'0l7Egpc/]4rR=i=-F#04p$k3jP_#ng7;B!c<3#,\m;_DREgusm1U78dU-HfqW1)_>M<(J'D:'7l=OXQqoGrJL1hs*@KC@-"8Q$j$9/.]2QJp*dQT0#nFf`N.<6>Kct<8D3?FJb*jO6dn.28"*?@!OeW@Wf#bF12[Wq9O67YFj!A(YAQJ[`=VY(W:s7pF5d<>s3/anN11=`8#X5^$Fhr"#$d8`NGftq!I#t+h.,g9`=(oHMc@_dG@>AMeQJZ]p;+EqnhF8bm0U1l/NR3XF3uTL%TB>'IUr6pZ>u!0:fDd[glX2I5\TO^+E"V@BfUHI<--(##__.09!&=3u2Fg5-a1gpAJc6eA::0XM/Y]dcemWpSF5.HL4*toNtS8COm:ole1H=l^"-m#+lgGmXrR3+1?fKQ<SKC/M0-VoVh=s6SN:nN5Kk"03W:.cd(:=XSJ0qo/?:*M+),sj4p$ece5Qd[V#@Gk=6mq&$.g@p%\2-4`BdR\TG.5[pYl6EqKdOoKXD=fB9j?,E)->jGdp2<N[@4Hc*;1V9`h^VqoeSM2eS=H$IH>Q$Y]l^&9YjS'-3VP#sK(R]VA<W:M<GQ5HD2+W\+)-X="Uq[88g4G"[WCINN01/k3)R%t3Z&s3<M!(;VWeG5i;:/]MCWXerYF<I%&F_%pE?i+J!1X26UeE6J9Al181Tm>-=;'i;Tl6mqY*[K[Mqt<UPl3Vu13m&%<0cheNS#sr<=\g=aCF18H=9d.Y!4k3!f=Vq'J:Ven"QC%Z8>eddSNA1C$@DX'BV"PAMQ!kOUlJuEbdn%CAoTM=Q5sMe&MhN0!XS$Q81,dR-B#mOB[s\:Rl53BOUJ)Q>*6G4Q$\4*2oP$Kc^Z_4o[l"T^[^.REX@9'X2?ap%`A*4/4u986l]sJ]O=-`#QWV[;@s<]RUcsAOBL.e"V5P8W]ap^IJ[3"-Sis3[X0M4=,bD)cS+H<V_]"Q-,D(0e#M#:@Rp12d@PL:e)unhqI6c4-%`WL&-rP-&0cX\&.'Ne+UC@Z&J-,t+9[9-,)N.LdX'#kKSTn#!"k"u7%,Dl<Z448!eCm_63m\qJIk)"Lkm/R+qYt`E2Z>R!$MoLo-"AL2%^s!UgoO?&4D1=70l286mNrgLa3O/N\Ur0"G@mc+s8'@63r@X6j*N7JjVs45t$B^6VS[78I.XJ#XBMc&4qZ`%M]T8Le/^5OpH^P8X,#;`!@Iu6m@d"_SJs7&O[b)&4.KF#a#Zb#S@W"j!#*=KE)9D#XTX\+TqijM3(2@-A"cR6pq;I!(''r+F*q9NL:Y.'4MLZO[P"]&.h0YL_'gm+TOh7+ct!V1Rj6Kbs7E:(PsbeR:ZhmlKDeD(+^gRFY4=h2rm;adO^+EH1c&WI[8%tBHeW5+c(dO+AuoC&IAa-<(KMF&-P7S#Qt`j&."DS6mP0V&4/br!@":463r@8+@)"uK-5he-ET>j'#c6eDP(@IEf'J"`Tld@GDog:+U)7qY2@M&#,?Lfb%]Pae&M1HV3uCN.LX?NAZ'"M2CCq&5SJg$&3r4p<ATE":G1CRJ<!1,Udg\oT(SWGq"6n==Xh]R_V3cQf>Y#D2OljIE&QI9a'1Lg2m1p2RF5$H32=3Zmc+$d2iG]$[H4r<8b*^TLd6Va&E3?,g,7gME)HLE`m6"'.q]PiQKOB)K%r=!klbmpM6V&q(+BBBZ/l*bUk<GDS)7.Ngh$6>"jUApH7muR==N/eMrpEH=6U8rZ@cr:b1pMsO]JV4G51iaV.X7<(<'+P.qE:*Z6M0Z5Jp]Kp[4GBEF-V8=4XLrf<-G#(ns'mP(m,JDf=BL3j]-pA2g[Ia9#!p!69]39/b2T1iW3bN2)`#0:OsLB!#EWC]/:p_VOOL>NO@n.bR6`GAbnVb?1(DWmiX9GnQbO+e9A!SM&)'AfK]@U;1'jXO$7VY?XfTeMHr4e]a7qKo5!63j5!Kf'/&b0WM8Gif%O(YjQ<]bQM)c2Y5+[Rb./tRTl\,VHqc\[rgQARB&9I'uP,P$RlU@?gg5(.T(Jm8V2pEi4c9n"=FCm+9bnDL?,a@5mC_F;e7Wd".%*XP;HCd=>U?ZBFqs;!Ph5e9'+fk_S`P3KI:gA?B4<\cN?qlq=6Z^-5-@\!Ut']8;mV-J<3MY'pF4"/HL[W@DuVu&-.T0*i-+bZaPru:6:Kkbjmg?N1-#dF;SQ>'@M/'Ur0n]?LkM\LX&BLFHE-JI]+dAN=/gj=Ks2jgV3!p]u6+5]:P)]f%Q2,<_!0uP[<?SE]d:Hg\]I9_l#-EGjYaM`a.D"_!Z)U<eD1F%YrJSnSiUQO*9F(r%L_R+3TBK^Nf=#o6&f^YljO<B=9CJrZLZ/-_HlPIWMaJ>mIj[*ic3oDO<S3,gDEcHdBZ1YFODG^sYq-VfqLsb-&B::QsnUd:]*+P<F##!Q0X.-]UD5#HjoN1Y:(+ZXrfp"9&or5'`9'LR/N&Wbm.'D8U$5^\6YAHRaARA[?VDSnt;^X%mk'\$L4cWW?>[**lS-;nhhNR@UOOYf`t?CVoU7S$n%AeFpS(>K7!?jX]LVHd?r@n)5RZ)TR%aoBam(eI21@SoO)gWJ_CUG%>#m"IE2gg"dY3%LlEuY'>6eW@Z]=V^oJAn&_.Tf"94M:GuNnhXSK.C2<H"]/N)\PF\m6W.7,MAMp%e-TBT"A.CH$'SqQ+9?dS_,)?LQWq/ZANeS[PUOWnH-U@_U*JPh)#_[^>^ni02&0`;.<J_9=&-rk9"<shOOT[t'5Y),H!(>8:-3OST+s@s1Lu]a8&4m!:J<17r!"f>7E2\U)&-<G1J3_EB!Y?"U85P$HL]E).+om9cJJ+*`B9RiiN.M>CUlYQdJgd'*NH@?A1R!>-90sjD#O/=-l8.I7;s0&P5l`726W[dGXCaLY3bo9^!FR%@[51'[\IC@RPRG9*KfZO&K&o<0PjiCd@ft\#-L=os*_hBa5lfO]Za+kK357Y!?.a.@iMroWZ?bK#e\a7>m&4_>5J$]J"2fnl`q$+BEFNS4`[)Q7PqhScHus%XYAT/Eo2[K858;.rnWfBiVmB;Pg:O^E0*Y,9]/Dm^E+28sR7jM0]Q184^RZn/Q0ECd,&fKDHt'H@AX.%(Nq<5=o!JSiqWWe07ph?rhPQK`RV@*X3sq5XT#l9<M/@n@jrJ`d38&XtpMbaJ)bX\i<ibXA/tPtG?WO@uo11I;;ri9$V5&T=f9[;Im!jC,?h.;_G[^:=OhNF4I^h*jka=T\S]+%jLA^/[Zd$cZ*aZ/!bL:MRmm!CLhmr>b5Yi?kY3.E<ARPglh2\Wo4i`jp(jKrmam"*i>.4%Mq=XZaE_]ll[BG%0qmUA_XB!1%M3fSJPRh#dfK-^3c$H:&O?*fu,Dgu.8@U=o?(H[1eKiDF;5:(HA<]P5/u'!YKZqkG"TlV9+rqD>f.?KQbb><02)[3_#r8Ofl0-*`3YX>"Y*&bjks,N1Ufg$G::09_7]o^7DHPn28t1u!WP;Hjh+H6tfNq)P+0WUh)kLATm**p6l*3tK2Y;2F\p!_kI1+6kP>BD0HtrUn/$/JOc>Ta)3l$Xuq_rD.f_r???e)tjJEJDn<#%CX!l.qT:[TffO0kM:e4WM!RYT#&-gtAY275PR\nfYM9=YWl>KE*5@&f%AaimMMa^<3])cMraKo4%"FW6ih8&c).1d?G1e!sUfV+7tb]X-t(o?3$8psN(^H%&undaCuVHKsqWUH1Bks&A%FU:"e.A_WM-.W_&6cfYtfT%*2JZ%^kgqJ^bdf["2Tl?7[6:s[MF8p+'XN:1'?lgB2Z^f+/^k<(F\;tEJic53X3Crtc9ahG9jZLn'W>4_)ZAUWU1TtVH^?:lsF7D`4k!KS!o:,"QUWALDGEYV4384_ng&C"+.bgP=VkmKR&"7mJNZ^L[LVSVYt4j87bjbdOhp/ftUXlU2\`5Wi=*pVT]c0)7o]%LZ>WFPX,jne8rfj3RU,J+/_c+1-21O#>[7e\W<a')QRo_XNRm;g6TI-B7YhKN[MD<9lC43uFFgTgIt^AQ(+A#]#uN&S4N=P,^,5Hq]JdRVp7H!oHjhQ`%N*8`[;TqZc.1Q-,[GHY,VA78j;M3Ih*4e("4D-T&5<?0_=?bX7q7XWb.Z2Kpl7rMoMJ5PU5B%!dViPq<ufpthXfeYhlTWL@51j8*A)nL(`ffBd!>e0=bC6M_Sqq"jX2u6945.n>%?>`oMV?2`rY^+poVWhQ!q;sOB+'c$[CNID]_g>+Z/5khV=-K=D+9XEP&0`9\pemG,+u646[UP(oDV7C%]8WFa+)Bh%>-N7nWm0:BmG;n;Eq%G<7l\M#fA)Z-#tr*$H<:m_$rR<_kL/#<>dLS[e+oQk!V_MKp@#\EXYe-U-g%FAU3S?/aD\5b4Zml;JsBCAT&8ln(/F/5oMjJToS&iW8(Kis_Pq0LD&B>:OgT5'igai*VM\L3.0\^u,k:29E_/j/VYLVU:\%C>gH;4N)AK9Y_#)aDB!!S/@_oc$=6!<m2]d8,9G/o_Qd3fnYC%LLf7R\KZcd3^93#92BNOa@Zb@aNB/[Elm.*V_HhTL8^?OQcQ-9!CC/8F4SkQ=m5("]l]Qd^aOOt'P9:Rm-opj[%<Cngg*dacWf!Ln;>E<7BRguN#,W\5jk`X/O=oVoADoEu.Y.r>25$cC(8B$S5k82p^FLko6E3XaUf;/qck8qp8%6UqDh=F(B-]/MjqolC!cfVVK>8mq=oosI(H;L1RXBepJp-)T\#PLSt8efgLGire&A?)#b#dKEX=#X3@%$j7.C0P0?r8):G2m1X*rC?aB1t.o.[5Vf?:fj^pSnL-=-[+@<G@[TNo$V$VD8XEjH-q%dA?ubAj`Z1(phnbGF.03rF^k5Mc"ANCST-jXC[Ig3C\\[RLNrY,A'1\ZWFtOcb<'W[9l'^dVs<sGZ?6[a>0u[P`$.UFZasY-#!Z2E\iJ<.3^GZPbb&UqR9/ddI:(^;AD=CApF0SC_+g[\L\<?LE.#^$-T6.W-bIk:hYD0YF&?34n_QGmr^n0B;(5CWPf4EQ2-a?"SU&MZ<(3!3XfQJ_e"^e>-hl9@-%"gF4>NKG5M.acBP$-)2Z!4%g2OUbg$?1ES/XQdf]%/q-H=@p<_/c@^T2gtLr2lXWNYXAE,<eYeun.'EN",^*TtdQa1%?e^0.&-5MK#NaRPYkG!400aZ%u5Ur[GHVih%QX]dp'*QAIMk!s:)b50&n(rfWY[I2!*I,01L)Nddq(Z*omC"(P/Dm]?_jq`sTc$+#CHc76.CC_Bm]?F>OCf3=k5fK6^D6M,o!9MuTn%,@olX"JnE+R-)^>Zok(Y1t7rU#C#`q.O="/k7o733nbMau@JVTKne*`)T"bucMh'-A0"5;@(r[a]Iq0(o,8[uTq$eD7R7DJW(-([c21K*O$8I='SKQccguhq1s;#PObS+'cgNl-jdO,iG]AMMZ[j?)r<NG+a;(.:5(36<(4of1^^\e^SrN[q`NrNKiGG_pc^KV>t,];@KmqXgI+G^TjVo-XJjEqWIu2QhuEGde^PC?jYf6H-\T.G-Mb0eaK(I^eLrfF`d,@[4cHD+uNT<oqTt@[D:R*+HhQ!f&eJ9/rf\$LL6XZhBpsLRfHL42fm)a-U(I5q+S'ib/7G<=.Lrmf&a^m!k^O)Z+Y24VMkBNiUZ5'T4Ojs:6l9VSfDQb]R<DA@[<WM?m]ifZDKhEDQM)s'(E0_!(:4<jh-a0>ZEpKF19a!oO)__aW/s3[scB_lG+%'gf#ZrhOdkq.Mgh7f"n7b4D.su6W99WJBp/jD:lU!GD`DZM<Z\o;^o4PLJDF:k)pt=Q<'AO)sn`4.4[>+hcV@KmgA38Ecmt"=QKT[/D8h2Gbh`+#16t<@JXt*[H:(hblFuK<o#N>+s<fSo6%)G7Y34pm,)**_B]ppP!hl22\SrVClplgqs&`d*2!@inaM9SGq+i_>\>_:/P,r*MVs(=`CL!H0it3GLepC.e;KR85S/VdAH3&LOr+K[5U4W$3@+dC&1gF=RJaVY9,R^ND_Y([B0).(>no1?!dq=h'PC)d!YS0l9L)j?/gu;qJ0Ir(&ILs`k*AqBP))du8/>oOB]]@+U<,Y+FA`_b!HA]JKJLA7!hBBR+X58=&:tH[&;'JL'gb.t7Ul!e1Oqe`k_(^[8Hp<5P>"`uBJK]75!i<^*BK=pK1I=5P=.P!+Xi`Y!s)51![/8O#RGu*PU(n^9G.aH%2+ZA9dh4dPU%0@Ie$&C8Z+H0HQpB.:h9:dKZl2L1<\hZCN'16cenZNhs)0LrRprF>4;F[_]O=$S_ng/IX:D[%mL#k+8t]LTDn7+If0&7^L;'Zk,gjnq\,V"go!@6edm6"NoaXFp1O1E5N?+#ao:_3s5FF\*$7@jkMG.#TD\!QDu]1I"M-@?#QPsb:VQG\f0o*X!T7=urH6SjV^&Mgr9`JGdk'r1!AO<Hj>;uo_^'b^+k*XMJ7uOi2ZN3_W(rdRnF-Ba_LI(.Dl$3Vrpj->pPH*MB4(\m\%_\*%tF;RHO$I`Hc*e\oB&hTIIk@Kr9Uh1YOh39hL"S%YQ"IO+8kq]?i9&Yg<X.'_4*[ag7'13nXK7ks*Wq1:Ob"1hX_'R7el"*?i'GbTD>`Ur97SeJ\[;pX"f'p^snOP0!Y?&]ANVk`Xfd&?[qedTDe70^O>dEhg4r+WdWjD?[hZ$fm<,Y5C_\un%\OTYPdU:hgYUUDr7&^s+bgjZPXm"Cs.[Lo]ooRq_*Er-f9FN-h"eLAR0[@D>dl=LUuGOrR((?rUCtSj:B"=IJJXAM4_NZ`iJQUri7-RqSTdkpsqAgo>,5,:Oi$)kJ."O:VU(\qAXq`b>3TQeb;9Apeh%Vpm\bQ%kZ,Aqu'=CQh82!ruJlSlA%T^+8t`;%u[W>a,7?UpUNNdc-O,pgJ>N[hJ</NpRcj!O5GlGYC-:UI-*B&HoHH;=$QT$#I"+(Z[I?&:@DP+qm-4S48GB?2Vf=U^&@%'j7g:[rc`kad:Ze_j^8$?jFtDlrpe`mpsu)9oUYI)pL!gI=5JAg,Q@'(J,=G^IJ&TO^A?7S^]3"05(@M@mO.IPm@Q%Gr4]BomTmR*jP/RApFh!kKl?t\F79/!m4\M/eM$&l>Q1&JIIe7n^\+-.mAo.Cfl-l`Hb]UOpHJ1QIIPY9hCj?Jol#<X7mHolrl*L,8)O.#h=CHXqlO?'QTrt_kJPVQs(;&R[n;qSI/W5X&]?>N+MAHOeXKqBS"KW3hnK*7neXN:Y7^QgBAWJOXRXL&g0`;0m$W1JVT;s@&Bge7a$RIkLob$a\tQ7j15\=b'Em>^']hYS65eWqhDfqagDG4qJU5>n*]0cpiikW"b\hW3Xl$4f\*.gXE7),O<V'8HZY@L6^XK6OF%l0A4kFn-4Z4']aW07#r.TMcc$tqAeKt3/@9#W@].UP\lTTGUgoPa)!rTknhL+eXN;WTd[=PVm!$0$#r\o?(+8?dJ0UVI`'T/P"K&?ThjI9N<a):C)+6DK,8c7Iqpb2V(iD8f)r,4@iGP8jc^QF$-p$[@t$^_(dZU.%[XSndk;J,"%s5*+Kbs*Wn9:bpc'a/J>'/&AJE)L@AmhGmX5""gA0).XXd#<^QUAmhtSQ*P#c?eILIo*P^2+ZK+i=ia]OT$_c7@W&;Nf@%__>cjscRsa'^NPna5!]9o^Ak%QrFN/noDNT$^QDpg-4u1Yr=)!k;jTrUD)&l1U,^:]V-R4E%H_@<5i[@8*EKGr08d*L1!k18Qf2<.8o&ibLn5T@hTm]hqS@+K-hZpf=nfb1$a.583GKt!nI_bDrpT1ArVCk)oLZ+_739,eS"Hgto`@LR(eDgK'D_U1IsL8$n([9&rfmWpn!("ehG[(%@>JpPkBJ9L=o(jq*qNa0\3^*HqhU.`n4^*=+7VS%l$$'mIJqF:=]VTYr\PeSeEb9<"'1uTfIr07_SEe62_6&RJ+gQ?s4cn4J%H-.[sl@BX\\sDs+Mq:oB-fCQbrKtCZ"ksIjjTIkK5H+p.p/L"/but5Pgs)q5Lr0s2ng:q`fD7kO5ogs-Y<?np7_7URr8CnZ/:\lg8Vp>PmZ_hV5-kn,M@)eb?iXcG*3tMtk\D^0CP@V/1n\jFsH!]k?`<r\*s=n,/)&IeW^u59%B.o@KakhgCR8n&Eto<&8GVpD9eMZg^!PD.V]cAbKcnXSuo[*6q+SQ1*p`hgIGaC!A_b<r&&_nV,RZ-us=apsg/f2?37irNi,FJa'oZl/-kQ[/Rc;nK507nE<+9CXT:P1]@!MrlcZ5!.pYN58ViFndfNINrU=7^/DFCL6&/lhih3`HCe]cbOS3'"+uOd7ffbl2/V?2d:N)E@1l"J4^LgMN.s"s$)$jcnP:Q\A*DhsFc/I<6$&i%ZV8s%FIk;%diX!t9f7>j,7@O5ZNIFKPY"1e0aBup$,BeeBYO;)'Vje"H15!9-HcXh9EldI1W2]o\f4;#DOol/_`b"VH8(On-;'MJ1:\!R+9W6!7a);fOY]i_'8f*Z71_a1&Kr>b'I\hE&43p>A^_cT5UY'b`IK04f'$9*ThHRuRE7]+Oj4bq,U6t,dsiR[eA7TpXLB*DmG*9_\a<S9h3=C_"i]!"/N`^ZTk-8?B=k!=/Q:,aY:WX[9L($71B0t0M4pqE4#^4gVkio-Z_gj&U<[qo><u0-.ZmCkOcG(<=pET9-l/W-FMNU2,?r_Pm>A_qm=N25kqEo)3<MXjedr:,"Am5er(3k_;R*PN)6e\m&=5X%5S4;&NNJLtVE!um>bjD6RZ&$X:W_:Op`QSHdt.i-!Gnnt0p*RY&b;]s0b@NMjq'<^OLXs#=;*s1!6U8`U&`,.ikL]ZGb56R5RR_NblfFd9Vr"[,ChDO/ToME+3p5U<U>Qh)j7g`8Q)8_Rar,`R=P(1WpJ"NT"cMVf+2CF1o3H([S$ZM\J%+q41JKAZTa8h]P6087le0I!mkN(F']M0LmUeYa_5^CdQ$ZG68N(7?S(thi[cK76f\S0P<ceK7[^'-.?p<(;W^G[P3FWPd-Td,?mE"B9Nc<'TP1K5*g3a!1J;WbGbAT?,a8T8%C'<WBEW#@BYdA/&Y^i[--7HsR-6;USeGRt&?/fXL2Sn:bfsFN/lTh&QW%c'6F5`.7S1E9V9i0qGB74?MJ?7TISl6Hs3JX9MXi]>P$i;l1_bIX8&tAt4McdrHbAH%.PI7#H8$Zf*(YImCMUN+j2?f>q6?o"g=<*bKU$.HI').`-ihsGs28`.,B*PpM,Dod9U48J;I(03RsX&cjEfT2J]\DP1?#&@&pSIjf<sT\5#$r`;q$@b`l]mK$bB%81]dtkbfp*DqBs]_8^K[n^6/K#,lqD>3XjH1Ac`O$,'<t&hu#Z^C"D1bKNCkg*MUKQ-32jX!Jm-DQjEc(&>9@`'/3&Z:.nt?TG%Uq6jOt\J0Hn9O\T((!$_N55QF63Lkl&%A;"9g8H9b4P7n.WAeKV*E/lVmW6CKm!-I4`;$o]X!//.lDG,(Vlrtn^0!MQ`XaA`a=uJ$1:;@/Ph'IHRqQ^Io%YHhKM!+,.dLL$C2\-;JNT?P)<gKHE(Pe/71*[3d$;ol)3s[p*^q"@EMSkj:Kb+i9,c?=J4c5&Ob_RMpN9P,8U&otZ.hsm:BG/IDM5:f):EG_pM2N!:1SO56.KlqJ1]m]SH/n=fG9l)q3CCr#!5pj"FW_.t#U)fM<(^;"b4D!#'2J3l\HgB*HQaZXUlMaJQ"'/r\7Lt:mKPauO:b1.K)ihV)6BU_Ej5oAFJ'Dn<!ZV$i-gl]gU@dY5laVg#U6K?-k"NE#o,!NOj'ebJtPe`4.7Ff3TZJC0nMY9,oQJT>8#:noM8NtLoF=*M1C=G9Glt-BVZl<5V(Y5!f1A.=-s+I@R;NR66LghmDI-nRmeAiE9F;[\l@pXn?n]4$?hl!%?s0+(,^Ku?8>\W+WQ;RPN4FQ(s7XCB\A>aX`CksVeZaBegHB+R+Mhh`8nS_D&lpl6*+3#@!&u\:Dj0]PO#!l#pnTYS7'K6E56Bsi"?cX!4,'I&i64X:+0T29TT7m"eu3NEmeZc9S!0T-)[6]O"l;1`U%!ect9h%!3c,*#TA[5qlCc;)N==8X9db=9oC/Ce_1J`=*j:+<"bR_=C7=;^fXHQYu4R4=+\4%"C`'k&/Zi0\k=<rA2-s"#e8@u/]8@Z'[/#084&it-r!G;1cGc1UR=ah^JcQ-WLUJT5\*hAWAtPIMee_+%$I#,U);[nf@*\oMh+1Z^g5EjAA4"Q+10&,m\l=+53HTQIWA*8[;+sFr>R6GQu_.h?!J4Lr_Sp][$[sErXU?FX,MblS00['!Bj'=,"@DSM$QPKJ)JX'O`VKIip%pl8f8Zpe`(\E=Ul?<!i:54BX5h-<TR\<lu5)_co-*GARKVohd`B,kG^"@1d,_"Qn)bi3n&bc[L&BQ=I?6OKsSnBlQY5*RkT&s#">@a?4_1o?TJ5.b9/8?J-A7/>m`'K-)rYo,`,f9-EKLLO_^87,mhV=.qS]NlW/^ngQPgu$j<5'(kX"AJ6CP2;oMar7BRK?[j4dATUG,j.(TQ.1(t3H4<$-CXAT9i3j[^BeaS5O;)&.p=L,,k;9Ug$`f0IsIC;AEBiD`fS79/^8/O+5&13PF!L*N;qFCR<-9UE[*`_#Jgt0_<k*9h@KL1s-ek7_%l,/COrlmp3P?^FJL;+i2s!4Sml:b?b"n$nuQ:YVQ=(.htD]-cVV*eD=P?Ae:g'99Wi,njf]V1=BKj-B"0:Y>);+(UBo2$._I@f4>.PrOf_+t@+_ru>\mZO+[*\@n5T/jo5iS<"*V=bn1g)jAgYubcgk0*I,2;E(pBR7e;;_t&pQ!6UmgXMCc0H.o&IRam(jM;-bcr)"Y>#cmm<Jg;o';\0`:pYg9"*I=nS"/ptCEIK?jho41L\SQfhKE?H9VXbk-ER^EpF-8rTpC;[9\SS`X<e/Z\^,As>SUcDI<A<&4)ct)5CN7>C!E.4[>qp@93tE+AgTHZ\T/TZ<F6TH%R8g_Z*^sF2l)cFj=[MJ9ehMT68^Gf8>P#HJ5sKUR8Jt)<d.D-2aX!V2GU:*h3A_WmUgQfX![m[WFe&aoj/U-\Yd>'AI?f\.s[cj5_)rN+?Abe9rAX:J_r>=&2`^b*qn1G=Z3bI`4!SF6\gg)3*)J<\iZ(`9k@(1`^1jRAHZC,6oehb^6oPL9:HX<T#n3VYc4[e4mS$=OY!sQX_n.rriC2Dr^61Ngh_e_K?]jsmP$J0W<`]CIkHHA\<eStb")YmAb(dJ\hObP&g^s-0?(Bo/C6ZGF76'I:oa5JD-0Z']:n!B\N7iF;-tu&Cp;XT6(o:"?C"J>E4`:c3#rD`Mj1qS9/JmeLupqZ%&.h!D:[/@dl5A;&Sm0S-(@hd0@%[/BoOATlutl].QR$&Yl%UBB+t8LmQR\.90p;-kNu]!C>msUO/m3PU@D3OKqGf*8!?eJL:_f,iiFO",*]ZH9Noj90T]o\Sp:H%_I,4B?&h5sP7\FbbckG3T3aZnW=2Nn+s#:8A1,Lq_$trsPY*j8GkA7e=#O]iiG[7iE'jZQZB.RU&1m^bGZ>toKj3j+Vm_K4C@A?HAL'H$`3/8MMt4=<P!m>KNV+^kcMSIh\+etRRAniNDIMCsa@I+GIAXSYf'+)h0J.+,lHd4]iP\@';f<@5D3^hUF-1)m\"]0Y)AiS4oYjh@%YpPe!<+S7>s+E44gDQ'E7nWJB=qH`bTkI+jM%<+*&CC]MQ(i3:X6nILX;GQBWTRKIZ@G!jRW31c1edG)qg(=,;\^=8&e6.M5!,JPi_QTP'B[8mBlqXW@h$g#Wo_#CK\;KJ"`cLptiY,>b5W)1TgH1RbC\c;sr#4oop;(_)jDHH=0P"2:0&&d2jnNVmLs#7&b-80_&,p((E)+0=X'K<f@3Nh[n8k_j4l.1XY]WMPC!?YWO.O!35RT=^htu19;6T4?hgZUmSZrBr\5"U2R%pD<QU0m+(Wj!!d,MQ4(R]hY9M6f%nu+o"hpc16GeEl0\DXGJplW_+1jg*[3R)EI%0#r5t:O8qIkQU\sN&X/>LTmP%RV;!M8@n^5J+,P)/GO:4kVUJG)HM[&DDq3p/kmaC7NS<;ngbF7Rj8gnD*LCB/`_<k=90t^-EW+mhocXod&'f`oOs5nX<Ik?+G9gPGhE'@N!!1:uEQ'Jf6&jnP)pef.@RA,k/LaZ$K*C-rN?<Q1$G%1nk!/b+RbebV-(rE#brN4EVUGG![ADbh7p?kuWnrUPJG?&Zj\n'-+n0gL:XgF2BOoYJ0`2pOcEpc?Xh2@`9?@'/^5+43O$l@4oSPCp@^T>DsWdJO;>F1B"gRb7<O,'i)Kh$l9Q1XXm=VN_`*o?b.=:9DYMJSt+GR<85._tbW=422XCKdrc7:/j\ME/pA]/fC4ag4tCNN"2qo['@ISkgouHdCDbbUkX5`5:QGE1)m2!3DWsqs"EuZi8pppjOGHYLb'!\0gTJmt*R$X"WTc=kB1CnBo[l=\T7bU.VHJf"HR6e-ks!at.M->/V/V=1+DZZXI7U\J=NV!3DF0gY#W+[`A9&Q.P:BljMKJQc=m@\8m@9Ke^11a+HS-"lR>@g?QTPjo3(jMo1JI\$W$9&iSnRn>FKY8+&nIN>VOKbcs7@"4#,OP8_3h;eA\N5kduQm99)[7Xem<NYWL(V$fJq[E"5jRS1Gk@kkG^hWULd]Qm@&]PIZSitnD-Z&HrYqJBB3pNBjWi3=#r&i3\c1p8dj7JNj0fmK[nKC,!>Io-Y*H[(E2-O*amG=0LQT%b"RAXrtgXYL+GB78N\\ElQiB&Z?ig>2ssC(8uP$3.:$@N5g4_sL&Pn!BAbZb0A=fWqbDVVbER&LDm#649k)pPb=e_r`Kc4d;M9`6l31=l'm\fC%;M0RRn&kRflO^/kNg/8;EZNi,QR2&`F!12hSjIZ`?e/pfj@C->KiN/8'tpEbT+-H;F^r):JmS$SZ2O)+4H>s$i\cP.fRCf>#,\`*X>D8L\Ja&@86f0ZPp@'I%C9T]rb7CG0m)Vc1I5WsU*(V0R2/D@(@QUNjI'LHcLXa#6>Z9rE04"XU^q_TrePs0(-?b3jbj.cM>TG7edMJ/9kKToC5]k#'T.U:Xnk4*tlhmP@QT6Mod`?6)W(\XMlehTl:i29kgpgBr.hH3a]=KjhjYb?&Ern>lUH0?snR\[m^a)q?#OPne#XYA5RaA=U8a)n_%CmpPlGOWc2Ca@0.c1I^gU)Q;*[sG!nXmGWDNa6q#mljn(Rb:JsBku+"3+1NS'uob`Mg^.d4*iG</U[PIVqHRtbQ%Rls65%4?`APJYOe%@]MND\qM$sek?n8Ls71+.n\;CMI8-n,7Xqun\qZgoE*GQA\[[U!b*jhMZ0ENi[Zr$iQ.\1Tgc)]hBinR%j@+,#"Di/HVJrSV]XoOqg9iWlIsOt7i*q1=.u2>3*7ROGXh(+dG;j@1C'rPeA4sn]$lgdgKkkNX5%1V%?%[4!78L=07Q7LB%u=8h+&jDOCTQ>VdS?iZi)%:I2$9>/Ks7)sP65,QIO&Z,Q$8[,'T[)#)jf^\#EJKck&0*DT2.=rN#_TK<Z/k]T>//Wc85DA<O@%snLFPo<mS6%JrMq`bT.;US&]JqEUG*hR:>VPD=?;k^H-X`Uc*5-Bm5Fm@/EhH>&Iuco\X:aCJD@AZ;:;]Ab>U_AB6a7f,fBok?$a[S@Y),A)iQEQaJ_HGU=:gC?pUU/K\j%`f]X+3Q/+4TKL\WKbdWh[:lqYY(_Csn<:ogH-c,UGl$D$YEUl&m!67YD+ds>h.ZA7dR7F6%TWA5cl[W<Qtj[\NeXT\C;Ko!a;Q!u?/[lAdh_^t]Qq9c<Jm%+T9pZKn"1O;5r'=oJf"-i%sR?U>%,+"F#+esi<rTUCYH.AX*ZE+J\q#HgSMa8K5MEf[`0MleEkZ%QQA++q1OIY"doPaBWZ+ZN9`D=%U.srg`*SrHu<kKUA"u#ika!K`K)'Y`/eP(b'GrgQ6(4i1&b=&q1RAb%sE@`<_dDoIJ_jZ+5^=$eX:lYc72u%raU`<AXQSS.+Y\VWT(^mLEDKB%/8qR]QB:2Pa7!A931a=]H->8FDsh-G&(nkg$7/NdQ&`=Bjc(NS;<B[W9'?eKdR(JX@hKq=+V2-5BIHh\d*D]$!MKu<?<#_\a]S5rHWLVnO8chph[:lAof<=QeC"c9c(3g:eU"lonLi-Pci=!)TYsuLA8I\a)/WBLd(:COZpHtX_UA]LK=_(S5l8P",#T\gBuKokh>7ueVQ_Ei'&aFeN]gP^81Pg?sh')mbTt[)L/-geb3W&$E!M9YpPrE3U6&%K-]7<XpXYd<tQe-]N3n1\ZR4f4.fK4c8Tn-;lP+8r#eaUSi.;5'B5MHZ8kt9_qg6g7$732I]U-u2a:NfL25%[W#\S?m7`_chE52j[&ZAoO,L)B3RXk)lVl(*ZAHVi4Y(pM(t2%uBV25NV^R]P"4<XA]UaW1FY%]K9a_m2S)$]mUf+GjN]$V,d]R&aZ7LK9hZ1Or0t'I)3E1)X^RRF)q=V1^`PC(ESEaF'Vg!@]C=]RHs*UhO^LMKV_]`HZX8\scmRkL9QXASCbaNi4*E&kN*Zs1h^T#bb0<J"\PUdQC5DQ<=p>t5?OQJ-3k:%tJ^+[L9,X,A=q>6a=%unNYr-<:lEm*.7>?>LFV#H__Gl'>#c,m0>lON8D=4)_HqGrld(2l9j!Up(pJ43io'H\gYC%J'=oATP=W3IA!-s#>#8W0[8(Cb`dQ)=j'F]gWN:q\C')t6?.cNo&\>^Z9H@Fq9*nY(JWNAHj>NUs_V%-3fK^+pA%I<Nj8j3d^W_3nL3E;0(2@i*Q2psr.?Gl&J`97sdkX5[?Zo#,)?AaI`2ChQAp(4\?1>n^NXVT3e<g_?56G$2k->C>In]8rm+VN7=W;D;j';o!65G"Y*=c&4N?.Jc`.I.5M-BE3>YT\6"Bg&6:niSABG0#(BrnO_^13LuYMTT6Xcr44V(4lf6dDli>C'_)1X9;]::'15f'j*>"4;&h(ci5_CXHJSh\NYe6j;-^j]FLtSR[f1YmL*n/U?C-;M.Zoh,$u?*[.F+I8=C"_gban>A%.=P0`%,Ie-44NUH2dU7937Zg[a=;_e]bt65sqLGH:)FY2qfE]Nsei&4^O2R7:a4ca9<t]!DBH9(orQ7e&qrGCY&`%)`p"3/+EPK$a.:<<_pNiZF*d`Sj.;f;S7.9)qU(lb*rb4._cA(-gk67e4ZrJd1jdFaDJq=c*#+AQPr;em+MV\>UDD)0oG7;?/%>&4`R;Un>U#EdDAB\[GkfZjGUTThrZk9A:D_)a+9+cgq%W,Po%T42f;q3\upld3j>HF#>e3%HIf5LR4LRH]fkAn%("?Q]fC0*"[-fb<8pb\'^tA#3&k\MgpZgB:=:)l_^s$P`1(pM8#ocaEW#YB)U__pGOXZF>tZu*HcN^qDd,$S]gfVTbLn-\UcTWl/f3dbRkA`nB'.L<-[>9Km,e\?_G/"=lFIS`^hpN=-,E[L.$K":WeoJqB.fV]moh05)ti\F_H2`XntXXk<RG'e0aHSZ^hb^67GMCOedN;/;;k2I9=g.-nArA3R\(HRX)I9sa'XUV/UtJc2?jR=i6:#P$!.NM)ZdIVC>-39Gj26E4L]Z`lb&s=C%m1cCe3i;)?JU$A1E+hJ9A[fWVjC/COrVEF>gc0r38'NX,23%[qhTQhs/mmqGtXH+n@_.W@(ntTjFo<MW9FO!+.WB_KC:uM1YlO/61"XfGLVf"O;G-rPsJ\G6?J<RX/W9'90)kB#-;K[P$BTmPr4()jGYQc$i8@'ijkgS9JTYG[8YP]kn35)Jl#8mcS?tr$0+$6AW43Q#>?=qZHO-M3D3q<#(n!\.^A+Tu+$]n>63<+9;-=2f.u\!8MqbZiPR%E-tY6$>rqqF&$rIS>mN72r5,m?pCo;pL,uta,6ulm]K`7+[11c?W<E,g@s><DHDdP<um^6X($HqA)BCQfWq9UKHii=DUD..[sO`+Nja&jMX,TNDk%2Ce]KD:7-#PJ37>9Ld&QJ5Z45uu7pNA0cT`5=9]4[1I78f@9,"klp5Z^.\>CXG%k<NT0.a.berL\rr]("h1ZMMpbgjT%<k'i^1Dc'75C+M;O?[\G;Wm?@M'Z`n`8u_JH8D#G#jpCU]G`aRi4\H.?8jbL!AIbV<S).MR$)Ng\aV4%!-YGak?@c&qVh&6!*]T!%2?nhqX.<!\!JJ!/6J%1CR(Xm6:%O)`4)n+;1RfX)[BoJ3B%C_8p>t9L_5gW6pZ*Q?m?5f=2X1f;g-&Nc"Qn?SN^Q^m/0@+=@`<LkhL.XGO8:2bs]27'WY/eY<"U22pd/L$'Bo)R54n@10)ON8DKcs`SfE^[lpncWA5B+e55u5je/$>Ou48o&I#TYf!!]l"l6a7?I@m#2JjIi?qZ"Tnm2M*:dbH+D?bqQ"(%6Z.p)eamAIne1UlXa)W#1-<)%%s7A&LR.^Gh1(iEq=*Yt4/p=32+DjY\(Y1u0Ppj;##B#M0$/6oKPUpd#j5N_R4=MN@7jm&sAYh-KE2(KKpR")D4C9'8T]OQQ@EBR?%'-h$i!,DlNO.U;:h@&02S4?4Ioe.iS@;k3\`e!ZL_\I1bEqb5*_O\kYW0.@WXD0ceM\`XImPj]M!,gs;UT&&.[3G?3/8-@D+TV2(jpr`Rjnb!^k+_(jBpDqre4K&JNLbr?a)4(B&`.T+RWEaZ.Au`AOFl3gDu'&DlYDggoU0tL$)n,6\>\G"@`f/Je-,LKlo=_W4!jd8.io"C_GkYI+q,(rBGQ7V3b_q7,nYY^d?o':IkY4m2+7t-hV7&gfN39K[*:#gXR3)Q(['(c;_f3-[7m!FG>aJfo2qs\g?gD3YMK[HbFU2.G<s6VnA:`#_FgndED<tA4<rFYY"Zr6a=Y;i\D/V<`uIcVbJd\+iCJilIk=ra04*j#oHB^G72FeMJO/M9Y>b0DJRWlr0cjjFa[bVX/sn.i]g\tn!K<&7CPA1l;5"Y^7VP88?Qc)21:ooZ+GS&HOh.3Od+#$l3&#<6&0VbnpJ6UAZ!il)'TaFCqctkFbsF+7+hKYOg^\FE24^KP=:%T-^S[=,B,/$/QD04A)G*8:M*1ke$%K!bNq6CZpibe4eZ[]DJO\=0$??@6Q@`d"UKEH]]Ig_ag-5>WVLX*2QK/;Ids0&;gU\?U!;p+'h\!(OrW6^::>NR"]H_[>KYb/alF.gVDCJ_j/^-"7,ISTDg*s10rlPnCI'L(Y?#cK<nrO_=gs$:3W!\12PJr5K26jK\rQmIunDZPUl>^*2Q1[3oJ;I=ulB9WUhUPh/)>Eq=#KIW6Do;nGj-?;A,<`Y.MX6?NV'jT]e=!$mH3\@iqGYoprLoL&gq;OECGHXjT,V6EY<Q9^&Pco\bHa0<*a5Ok4TO9;FkuJf)m%3]]0-D2WlHu5>AGAbA[N(Wn)BW41![7E@G3Rq0GsCJUU=,kNCH2cWA-T)oit\/r+"95_-(oQO(otdZ=;\_A"ElGFEs(jF-"MN7.>o%1g4FR1mfJ=&G+8+CO7c#X1@2!bBajCWAQ]@+ES>-Veg!_Bk?jm;o[u*p,)a$OmOdM.EWE,R[`HKWUBORpM`(Oqb-XBP3?JWn`-``>&e><5na1_Wmp=!<aMfOWC3RdNZh*82++-o7i0L0$_"FpHugF:C3Rk^JPptT:A.h5^78nM9_J(2UnIa9_++F'n_2j_$XK]V%!2=:h=]1;PMO2K<+q@Zc067[Ye69u6JdZ?rAXcE`(=l!H[Mor=*d(p*<&!7oA<$[Ye=28C?+CGSZ9-hN2B#o_a'U$l9HgS<MHlj-B#.AEp^lbjJhCDg$pWfRPXd-WeJZ$]3jf<j2?%?S^ZlW;!_KTelP0.+^r,HeZ@oRPLe<#Tt!+dIUHS>IeA(@=B)Ta`U`-01d=^ma7".a%$bEbDss90g3PSmQbZu$<^NksX4B-]fR]^$d^+2cN-joP@J@P.ph2WG:c3b&hPYIr2bMpF@BGd)#3T4XWSXk"?Kj3&jl4,G=(SKlWiYNE[+%^3?'ji"i5tb[bHrbQZlclkAooF`2Fh1Q]c%&E)MKZ)K0bKg@`$%8MU^_.U6M)==C'A#5mt!`o%TEK4?m00gX#B`Wf4o4rOW"@<b#\f+)`4#p!.igC+2)E*8>b7_>05MBJkN@95h<*S'&-EpMJ-\cls2HoKTEn/2#38N_e?H^ucj59jOS3Bc\U.R-2NE=np-ecLlsS/CNlE@C,>ap<T>d>&:7eR'Q7;jrQ"Ke&R@4p;\SLphN<Nq#bE43[Vn_Ops?HF4u>I0<2cJk1`@KQp5018B(/]IXbT!jRX>%\NBTVlC.B#PckmV8PHcCfscmJm@9NE.pqsg)6*->6gJpcs6`$"?t=M.o_RgJm^.g7p(*iJHtWD_M'\oqe"^aZQfl]6lMj3li`!J(=h_H7?o.`Vh`Xeh1/'BPrVmr]==])bh=1 bi=nil ce=cc[2]~=0 and 79436 or 82033 ce,cd=82033,82033 end end else if cd>=69063 then if cd~=69762 then cb[135]={}cd=-45660 else y=q and q[(function(c,h)local m local n={}local p={}local function s(bb,bc)p[bc]=bb;return p[bc]end local bb={}bb[1]=0 bb[2]=2 bb[3]=2 local bb=61809 local bc=0 repeat if bb<=-22311 then if bb<=-47458 then bb=n[24]else if bb==-38735 then bb=n[25]else break end end else if bb<=-16231 then return i(m)else if bb~=61809 then m=n[23]for bc=1,#c do local c=e(c,bc)m[bc]=o(d(37,99),(c-(h+bc))%256)end n[25]=p[40223+36261]or s(-16231,40223+36261)bb=-38735 else n[23]={}n[24]=p[61809+36261]or s(40223,61809+36261)bb=-47458 end end end until bb==-22311 end)("\205\205\219\210",106)]or function(c,h)local m,n local p={}local s={}local function bb(bc,bd)s[bd]=bc;return s[bd]end local bc={}bc[1]=2 bc[2]=1 bc[3]=4 local bc=-46921 local bd=0 repeat if bc<=-46270 then if bc<-46270 then m=0 n=1 p[28]=s[-46921+66629]or bb(65099,-46921+66629)bc=79591 else break end else if bc==65099 then while c>0 and h>0 do local s,bb local bd={}local bf={}local function bk(bs,bx)bf[bx]=bs;return bf[bx]end local bs={}bs[1]=1 bs[2]=0 bs[3]=4 local bs=0 local bx=-26233 repeat if bx>=51084 then if bx>=61185 then if bx==61185 then break else bx=bd[27]end else c=j(c/2)h=j(h/2)n=n*2 bd[27]=bf[51084+32777]or bk(61185,51084+32777)bx=83708 end else if bx==-26233 then s=c%2 bb=h%2 if s==1 and bb==1 then m=m+n;end;bd[26]=bf[-26233+163848]or bk(51084,-26233+163848)bs,bx=24237,24237 else bs,bx=bd[26],bd[26]end end until bx==61185 end;return m;else bc=p[28]end end until bc==-46270 end z=q and q[(function(c,h)local m local n={}local p={}local function s(bb,bc)p[bc]=bb;return p[bc]end local bb={}bb[1]=0 bb[2]=3 bb[3]=3 local bb=70456 local bc=0 repeat if bb>=-13517 then if bb==-13517 then break else n[29]={}n[30]=p[70456+93006]or s(-24453,70456+93006)bc,bb=-20943,-20943 end else if bb<=-24453 then m=n[29]for p=1,#c do local c=e(c,p)m[p]=o(d(37,99),(c-(h+p))%256)end return i(m)else bc,bb=n[30],n[30]end end until bb==-13517 end)("\110\123\125\131",11)]or function(c)c=c%r return(r-1)-c end ba=(table.create or function(c)return{t({},1,c)};end)cd=-29826 end else bn=function(c)local h local m={}local n={}local function p(r,s)local z=u(s,s)local r=r+z n[s]=r;return r end local r={}r[1]=1 r[2]=4 r[3]=4 local r=89438 local s=0 repeat if r<=-12091 then if r<=-42989 then break else bh=bh+1 return h;end else if r~=89438 then r=m[33]else h=0 h=e(c,bh)m[33]=n[u(89438,49492)]or p(-12091,u(89438,49492))r=32985 end end until r==-42989 end cc[1]=(cc[1]+1)%5 cd=-21108 end end else if cd>=82033 then if cd<=82033 then bi=function(c)local h=0 local m=0 for n=0,3 do local p=e(c,bh)h=v(h,w(p,8*n));bh=bh+1;end;for n=0,3 do local c=e(c,bh)m=v(m,w(c,8*n));bh=bh+1;end;return m*4294967296+h;end ce,cd=-38805,-38805 else if cd<88252 then bl=function(c)local h local m={}local n={}local function p(r,s)n[s]=r;return n[s]end local r={}r[1]=2 r[2]=1 r[3]=1 local r=27566 local s=0 repeat if r<=-10544 then if r~=-10544 then return h;else r=m[31]end else if r==20889 then break else h=0 for s=0,1 do h=v(h,w(e(c,bh,bh),8*s));bh=bh+1;end;m[31]=n[27566+62140]or p(-15476,27566+62140)r=-10544 end end until r==20889 end ce,cd=-29249,-29249 else bn=nil ce,cd=68000,68000 end end else if cd<=79436 then bj=function(c)local h=0 for m=0,3 do h=v(h,w(e(c,bh,bh),8*m));bh=bh+1;end;return h;end ce,cd=-37926,-37926 else if cd<=80352 then bw=function(c,...)local h,m local n={}local p={}local function r(s,z)p[z]=s;return p[z]end local s={}s[1]=2 s[2]=2 s[3]=0 local z=0 local bb=56097 repeat if bb<=28990 then if bb>=-17174 then if bb==-17174 then m=n[131]if m>h then for bc=h+1,m do c[bc]=nil;end;end;c[0]=h return h;else break end else z,bb=n[132],n[132]end else if bb<=49528 then bb=n[133]else if bb==56097 then h=k('#',...)for m=1,h do c[m]=k(m,...);end;z=s[1]==0 and-17174 or 57203 s[2]=(s[2]+1)%5 n[132]=p[56097+181829]or r(57203,56097+181829)z,bb=-36405,-36405 else n[131]=c[0]or 0 n[133]=p[57203+50758]or r(-17174,57203+50758)bb=49528 end end end until bb==28990 end cd=-43516 else by=function(c,h,m,...)local n=(c[4802])local p=c[3363]local r=c[8966]local r=c[6330]local s=c[7164]local z=c[4376]return function(...)local c=ba(c[5182])local bb={}local bc={}local bd={}local bf=0 local bi=0 local bj={}local bk=0 local bl=k('#',...)-1 local bn=p+1 local bs,bx=bv(...);local cb={...};local cb=1 local cf=-1 for cg=0,bl do if cg<=p then c[cg]=bs[cg+1];end;end;local bl,cg while true do bl=n[cb];cg=bl[7895];if not((cg)<(5))then if cg>=14 then if cg<=22 then if cg>=((18)*1)then if cg<=((20)*1)then if(20)<=(cg)then local ch=bl[4216]do local ci=(1)local cj=(1)local ck=(#ch)if cj>=0 then while ci<=ck do local cl=c[ch[ci]]bf=bf+1 bd[bf]=cl ci=ci+cj end else while ci>=ck do local ch=c[ch[ci]]bf=bf+1 bd[bf]=ch ci=ci+cj end end end else if not((cg)==(19))then do for ch,ci in a,bb do if ci[1]==c and(((0)*1))<=(ch)then ci[1]={c[ch]}ci[2]=1 bb[ch]=nil end end end local ch=bd[bf]bd[bf]=nil bf=bf-1 do return ch end else local ch=bl[1372]local ch=h[ch]c[bl[4216]]=ch[1]end end else if cg==((21)+0)then c[bl[4216]][1]=c[bl[1372]]else local ch=bl[4216]c[ch]={c[ch]}end end else if cg>=((16)+0)then if cg==16 then local ch=bl[4216]local ch=bd[bf]bd[bf]=nil bf=bf-1 local ci=bd[bf]bd[bf]=nil bf=bf-1 ci(ch)else local ch=r[bl[1372]]local ci=ch[8186]local cj=#ci local ba=ba(cj)for ck=1,cj do local ci=ci[ck]local cj=ci[2]local cl=ci[3]if not((ci[1])~=(1))then if cl==0 then local ci=c[cj]bb[cj]=ci ba[ck-1]=ci else ba[ck-1]=c[cj]end else local ci=h[cj]if cl==((0)-0)and ci[0]then ci=ci[0][ci[1]]end ba[ck-((1)+0)]=ci end end c[bl[4216]]=by(ch,ba,m)end else if cg<=14 then c[bl[4216]]=h[bl[1372]]else local ba,ch=c[bl[1372]],bl[4216]c[ch]=ba[c[bl[4471]]];c[ch+1]=ba;end end end else if cg>=32 then if not((cg)<(42))then if cg<=50 then if cg>=46 then if not((cg)<(49))then if cg<50 then c[bl[4216]]=#c[bl[1372]];else c[bl[4216]]=c[bl[1372]]+c[bl[4471]];end else if cg<=47 then if cg<=46 then h[bl[1372]][1]=c[bl[4216]]else if c[bl[4216]]then cb=bl[1372];end;end else local h=bl[4216]local ba=bd[bf]bd[bf]=nil bf=bf-1 local ch=bd[bf]bd[bf]=nil bf=bf-1 do local ba,ch,ci=ch(ba)c[h]=ba c[(1)+(h)]=ch c[h+2]=ci end end end else if cg>=((44)-0)then if cg~=45 then local h=bl[4216]local ba=bf local ch=bi local ci=(1)+(ch)local cj=bd[ci]c[h]=cj(t(bd,ci+1,ba))for h=ba,ci,-1 do bd[h]=nil end bf=ch local h=bj[bk]bj[bk]=nil bk=bk-1 bi=h or 0 else local h=bl[4216]local ba=bl[1372]local ba=ba local ch=bf local ba=ch-ba+1 local ci=bd[ba]local ci=bw(bc,ci(t(bd,ba+1,ch)))cf=h+ci-(0+(1))for cj=1,ci do c[(cj)+(h)-((1)-0)]=bc[cj]end do local h=(ch)local ch=(-1)local ci=(ba)if ch>=0 then while h<=ci do bd[h]=nil h=h+ch end else while h>=ci do bd[h]=nil h=h+ch end end end bf=ba-1 end else if cg<43 then c[bl[4216]]=-c[bl[1372]];else local h=bl[4216]local ba=bd[bf]bd[bf]=nil bf=bf-1 local ch=bd[bf]bd[bf]=nil bf=bf-1 local ba,ch=ch(ba)do local ba,ch=ba,ch c[h]=ba c[h+((1)-0)]=ch end end end end else if cg<=58 then if cg<=54 then if cg<=52 then if cg~=52 then do return t(c,bl[4216],cf)end else local h=bl[4216]local ba=bf local ch=bi local ci=ch+1 local cj=bd[ci]local cj=bw(bc,cj(t(bd,(1)+(ci),ba)))cf=h+cj-1 for ck=1,cj do c[h+ck-1]=bc[ck]end do local h=(ba)local ba=(-1)local ci=(ci)if ba>=0 then while h<=ci do bd[h]=nil h=h+ba end else while h>=ci do bd[h]=nil h=h+ba end end end bf=ch local h=bj[bk]bj[bk]=nil bk=bk-1 bi=h or 0 end else if cg~=54 then local h=bl[4216]local h=bd[bf]bd[bf]=nil bf=bf-((1)-0)h()else m[s[bl[1372]]]=c[bl[4216]];end end else if cg>=57 then if cg==57 then local h=bl[4216]local ba=c[h]local ch=c[h+2]c[h]=ba-ch;cb=bl[1372];else local h=bl[4216]local ba=c[h]+c[h+2]c[h]=ba if ba<=c[(1)+(h)]then do c[bl[4471]]=ba cb=bl[1372]end end end else if cg<=55 then local h=bl[4216]local ba=bd[bf]bd[bf]=nil bf=bf-1 local ch=bd[bf]bd[bf]=nil bf=bf-1 local ba=bw(bc,ch(ba))cf=(ba)+(h)-1 for ch=(ba),(1),-1 do c[(ch)+(h)-1]=bc[ch]end else local h=bl[4216]local ba=bf local ch=bi local ci=ch+1 local cj=bd[ci]do local cj,ck,cl=cj(t(bd,ci+(0+(1)),ba))c[h]=cj c[h+1]=ck c[h+2]=cl end for h=ba,ci,-1 do bd[h]=nil end bf=ch local h=bj[bk]bj[bk]=nil bk=bk-1 bi=h or 0 end end end else if cg<=65 then if(((62)-0))>=(cg)then if cg<=60 then if(59)>=(cg)then c[bl[4216]]=c[bl[1372]]/c[bl[4471]];else local h=bl[4216]local ba=bw(bc,c[h](t(c,(1)+(h),bl[1372])))cf=h+ba-((1)*1);for ch=(ba),(1),-1 do c[(ch)+(h)-1]=bc[ch];end end else if cg==61 then local h=bl[4216]c[h]=c[h](c[(1)+(h)]);else do for h,ba in a,bb do if ba[1]==c and h>=0 then ba[1]={c[h]}ba[2]=1 bb[h]=nil end end end local a=bd[bf]bd[bf]=nil bf=bf-1 local h=bd[bf]bd[bf]=nil bf=bf-1 do return h,a end end end else if(64)>=(cg)then if cg<64 then local a,h,p=bl[4216],(bx-p-1),0 if h<0 then h=-1 end for ba=a,a+h do c[ba]=bs[bn+p]p=p+1 end cf=a+h else c[bl[4216]]=c end else c[bl[4216]]=n end end else if cg>=((69)-0)then if cg>=72 then if not((cg)>=(73))then local a,h=bl[4216],(bl[4471]*((100)-0))local n=c[a]for p=1,bl[1372]do n[h+p]=c[a+p]end else local a=bl[4216]local h=bw(bc,c[a](t(c,(((1)*1))+(a),bl[1372])))cf=(h)+(a)-1;for n=(h),(1),-1 do c[a+n-1]=bc[n];end end else if cg<=70 then if cg==69 then c[bl[4216]]=c[bl[1372]]>c[bl[4471]];else local a,h,n=bl[4216],bl[1372],bl[4471]local h=z[h]local a=c[a]local p=true do local ba=(1)local bb=(1)local bc=(#h-((1)-0))if bb>=0 then while ba<=bc do if a==nil then p=false break end a=a[s[h[ba]]]ba=ba+bb end else while ba>=bc do if a==nil then p=false break end a=a[s[h[ba]]]ba=ba+bb end end end if p and a~=nil then a[s[h[#h]]]=c[n]end end else local a=bl[4216]local a=bf local h=bi local n=h+1 local p=bd[n]p(t(bd,(1)+(n),a))do local a=(a)local p=(-1)local n=(n)if p>=0 then while a<=n do bd[a]=nil a=a+p end else while a>=n do bd[a]=nil a=a+p end end end bf=h local a=bj[bk]bj[bk]=nil bk=bk-1 bi=a or 0 end end else if cg<=67 then if cg==((66)*1)then c[bl[4216]]=s else local a,h=bl[4216],((((100)*1))*(bl[4471]))local n=c[a]n[(1)+(h)]=c[(1)+(a)]end else local a=bl[4216]local h=bd[bf]bd[bf]=nil bf=bf-1 c[a]=h()end end end end end else if cg>=36 then if cg<=38 then if not((cg)>(37))then if cg<37 then c[bl[4216]]=c[bl[1372]]..c[bl[4471]];else c[bl[4216]]=c[bl[1372]]~=c[bl[4471]];end else local a,h=bl[4216],bl[1372]local n=a+2 local a,p=c[a](c[a+1],c[n])if not((a)==(nil))then do local a,h,p,ba=a,a,p,h c[n]=a c[n+1]=h c[n+2]=p cb=ba end end end else if not((cg)<(41))then local a=#bl[4216]for h=1,a do c[bl[4216][h]]=c[bl[1372][h]];end;else if not((cg)>=(40))then local a,h=bl[4216],bl[1372]local n,p,ba=c[a],c[a+1],c[a+2]c[a]=g(function()for g,bb,bc,bn,bs,bw,bx,ch,ci,cj in n,p,ba do f(g,bb,bc,bn,bs,bw,bx,ch,ci,cj);end;end);c[a+1]=nil;c[(2)+(a)]=nil;cf=a+2;cb=h;else local a=bl[4216]c[a]=c[a](c[a+1],c[a+2]);end end end else if cg<=33 then if not((cg)==(33))then local a,f=bl[4216],bl[1372]local f=z[f]local g={}for h=1,#f,2 do g[s[f[h]]]=s[f[(1)+(h)]]end c[a]=g else local a=bl[4216]local f=bl[1372]local f=(f==0)and cf or(a+f-1)for g=a,f do bf=(1)+(bf)bd[bf]=c[g]end end else if cg<=34 then local a=bl[4216]c[a]=c[a](t(c,(1)+(a),bl[1372]));else bk=bk+1 bj[bk]=bi bi=bf end end end end else if not((cg)<(27))then if(30)<=(cg)then if cg<((31)*1)then c[bl[4216]]=c[bl[1372]]==c[bl[4471]];else c[bl[4216]]=nil;end else if cg>=29 then local a,f=bl[4216],bl[1372]local f=c[f]c[a]=f[1]else if cg==(0+(27))then local a=bl[4216]local f=bd[bf]bd[bf]=nil bf=bf-1 local g=bd[bf]bd[bf]=nil bf=bf-1 local h=bd[bf]bd[bf]=nil bf=bf-1 c[a]=h(g,f)else local a,f,g=bl[4216],bl[1372],bl[4471]local f=z[f]local a=c[a]do local h=(1)local n=(1)local p=(#f)if n>=0 then while h<=p do if a==nil then break end a=a[s[f[h]]]h=h+n end else while h>=p do if a==nil then break end a=a[s[f[h]]]h=h+n end end end c[g]=a end end end else if cg<=24 then if cg<=23 then c[bl[4216]]={};else c[bl[4216]]=by(r[bl[1372]],nil,m)end else if not((cg)==(26))then local a=bl[4216]local a=bl[1372]local a=a local f=bf local a=f-a+1 local g=bd[a]g(t(bd,a+1,f))for g=f,a,-1 do bd[g]=nil end bf=a-1 else c[bl[4216]]=not c[bl[1372]];end end end end end else if cg>=9 then if cg>=12 then if cg<13 then local a=bl[4216]local f=bl[1372]local f=f local g=bf local f=g-f+1 local h=bd[f]c[a]=h(t(bd,f+1,g))for a=g,f,-1 do bd[a]=nil end bf=f-1 else local a=bl[4216]local f=bl[1372]local a=c[a]if not a then cb=f;end;end else if(10)>=(cg)then if cg<10 then local a=bl[4216]local f=bd[bf]bd[bf]=nil bf=bf-1 local g=bd[bf]bd[bf]=nil bf=bf-1 c[a]=g(f)else do return end end else cb=bl[1372];end end else if cg>=7 then if cg~=8 then local a=bl[1372]for f=1,#a do local a=a[f]local a=s[a]bf=bf+1 bd[bf]=a end else local a=#bl[4216]for f=1,a do c[bl[4216][f]]=s[bl[1372][f]];end;end else if cg<6 then c[bl[4216]]=c[bl[1372]][c[bl[4471]]];else local a=bl[1372]local a=s[a]bf=bf+1 bd[bf]=a end end end end else if cg<=(0+(1))then if cg<1 then c[bl[4216]]=s[bl[1372]];else local a=bl[4216]local a=c[a]bf=bf+1 bd[bf]=a end else if cg>=4 then c[bl[4216]]=m[s[bl[1372]]];else if not((cg)>=(3))then c[bl[4216]]=c[bl[1372]];else c[bl[4216]][c[bl[1372]]]=c[bl[4471]];end end end end cb=cb+1;end;end;end cd=46924 end end end end else if cd>=30310 then if cd<=35627 then if cd>=34422 then if cd<35627 then w=nil x=nil ce,cd=-25323,-25323 else bq=nil cc[1]=(cc[1]+1)%5 ce,cd=-22883,-22883 end else bt=nil ce=cc[3]==1 and 22832 or-48865 ce,cd=-48865,-48865 end else if cd<=37416 then bo=function(a)local c,f,g,h,m,n,p,r,s,t,z local ba={}local bb={}local function bc(bd,bf)bb[bf]=bd;return bb[bf]end local bd={}bd[1]=4 bd[2]=1 bd[3]=3 local bd=-24862 local bf=0 repeat if bd<=-19433 then if bd<=-36444 then bf,bd=ba[35],ba[35]else if bd~=-19433 then c,f,g,h,m,n,p,r=e(a,bh,bh+7)bh=bh+8 ba[34]=r>127 and-1 or 1 ba[35]=bb[-24862+34286]or bc(48618,-24862+34286)bf,bd=-36444,-36444 else if t==0 then if z==0 then return s*0;else return s*z*2^(-1022-52);end;elseif t==2047 then if z==0 then return s*(1/0);else return 0/0;end;end;z=z+2^52 return s*z*2^(t-1023-52);end end else if bd<=-11638 then break else if bd<=44124 then bd=ba[36]else s=ba[34]t=(r%128)*16+j(p/16)z=((p%16)*2^48+n*2^40+m*2^32+h*2^24+g*2^16+f*2^8+c)ba[36]=bb[48618+165357]or bc(-19433,48618+165357)bd=44124 end end end until bd==-11638 end ce,cd=-20261,-20261 else if cd~=46924 then bm=function(a)local c local f={}local g={}local function h(m,n)g[n]=m;return g[n]end local m={}m[1]=2 m[2]=4 m[3]=0 local m=0 local m=26987 repeat if m>=26987 then if m~=62319 then c=0 c=v(c,w(e(a,bh,bh),8))f[32]=g[26987+199030]or h(-44602,26987+199030)m=62319 else m=f[32]end else if m~=-40095 then bh=bh+1 return c;else break end end until m==-40095 end cc[3]=(cc[3]+1)%5 cd=88252 else bz=bu(bg)ca=by(bz,{},l())return ca();end end end else if cd<=26750 then if cd<26750 then br=nil ce,cd=60198,60198 else bp=function(a)local c,f local g={}local h={}local function l(m,n)h[n]=m;return h[n]end local m={}m[1]=3 m[2]=4 m[3]=2 local m=0 local m=32815 repeat if m>=32815 then if m==32815 then c=0 f=1 repeat local n local p={}local r={}local function s(t,w)r[w]=t;return r[w]end local t={}t[1]=4 t[2]=0 t[3]=3 local t=0 local w=86173 repeat if w>=-11046 then if w<=-11046 then w=p[38]else if w<=48760 then break else n=e(a,bh,bh)c=c+(n>127 and n-128 or n)*f p[37]=r[86173+229146]or s(-30813,86173+229146)t,w=-33963,-33963 end end else if w==-33963 then t,w=p[37],p[37]else f=f*128 bh=bh+1 p[38]=r[-30813+98075]or s(48760,-30813+98075)w=-11046 end end until w==48760 until(n<128)g[39]=h[32815+196798]or l(-39098,32815+196798)m=39354 else m=g[39]end else if m==-43856 then break else return c end end until m==-43856 end cd=35627 end else if cd<=28832 then bv=function(...)return{...},k('#',...)end ce,cd=80352,80352 else if cd<29845 then u=q and q[(function(a,c)local f local g={}local h={}h[1]=2 h[2]=1 h[3]=0 local h=-15429 local k=0 repeat if h<=-30572 then break else if h==-17953 then f=g[11]for l=1,#a do local a=e(a,l)f[l]=o(d(37,99),(a-(c+l))%256)end return i(f)else g[11]={}k,h=-17953,-17953 end end until h==-30572 end)("\175\198\190\194",76)]or function(a,c)local f=0 for g=0,31 do local h=a/2+c/2 if h~=j(h)then f=f+2^g;end;a=j(a/2);c=j(c/2);end;return f;end v=q and q[(function(a,c)local f local g={}local h={}local function k(l,m)h[m]=l;return h[m]end local l={}l[1]=2 l[2]=0 l[3]=0 local l=0 local m=-36800 repeat if m<=-31964 then if m>=-34949 then if m<-31964 then return i(f)else l,m=g[14],g[14]end else g[12]={}g[13]=h[-36800+150589]or k(-17745,-36800+150589)m=-14617 end else if m>=-14617 then if m==-14617 then m=g[13]else break end else f=g[12]for n=1,#a do local a=e(a,n)f[n]=o(d(37,99),(a-(c+n))%256)end g[14]=h[-17745+150589]or k(-34949,-17745+150589)l,m=-31964,-31964 end end until m==38749 end)("\115\129\133",16)]or function(a,c)local f,g local h={}local k={}local function l(m,n)k[n]=m;return k[n]end local m={}m[1]=1 m[2]=2 m[3]=0 local m=-13292 local n=0 repeat if m>=69819 then if m==69819 then m=h[18]else break end else if m==-13292 then f=0 g=1 while a>0 or c>0 do local n,o local p={}local q={}local function r(s,t)q[t]=s;return q[t]end local s={}s[1]=1 s[2]=4 s[3]=4 local t=0 local t=-32226 repeat if t>=-29379 then if t>=70657 then if t==70657 then t=p[17]else break end else if t<=-29379 then t=p[15]else g=g*2 s[2]=(s[2]+1)%5 p[17]=q[62816+216451]or r(79348,62816+216451)t=70657 end end else if t>=-36152 then if t<-32226 then t=p[16]else n=a%2 o=c%2 p[15]=q[-32226+216451]or r(-38335,-32226+216451)t=-29379 end else if n==1 or o==1 then f=f+g;end;a=j(a/2)c=j(c/2)p[16]=q[-38335+216451]or r(62816,-38335+216451)t=-36152 end end until t==79348 end;h[18]=k[-13292+23588]or l(52872,-13292+23588)m=69819 else return f;end end until m==78552 end ce,cd=34422,34422 else be=function(a)local c=33 local f=85 local g={}local h=#a local j=1 local k=1 while j<=h do local l=j+4 local h=(l<=h)and 5 or(h-j+1)if h==0 then break;end;local a,e,l,m,n=e(a,j,l)if h<5 then e=e or 117;l=l or 117;m=m or 117;n=n or 117;end;if(a<c or a>=c+f)then return"";end;if h>=2 and(e<c or e>=c+f)then return"";end;if h>=3 and(l<c or l>=c+f)then return"";end;if h>=4 and(m<c or m>=c+f)then return"";end;if h>=5 and(n<c or n>=c+f)then return"";end;local a=((((a-c)*f+(e-c))*f+(l-c))*f+(m-c))*f+(n-c)local c=y(x(a,24),255)local e=y(x(a,16),255)local f=y(x(a,8),255)local a=y(a,255)local a=d(c,e,f,a)if h<5 then a=b(a,1,h-1);end;g[k]=a;k=k+1;j=j+5;end;return i(g);end cd=-36922 end end end end end end until cd==-25834 end)(error,next,string.match,tonumber,string.gsub,string.sub,table.insert,string.char,string.byte,coroutine.yield,coroutine.wrap,string.rep,table.concat,math.floor,select,(getfenv or function()return _ENV;end),setmetatable,next,(table.unpack or unpack),(table.pack or function(...)return{...};end),math.min,(function(b)if b<=1 then return false end;if b<=3 then return true end;if b%2==0 or b%3==0 then return false end;local c=5;while c*c<=b do if b%c==0 or b%(c+2)==0 then return false end;c=c+6 end;return true end),string.len,table.remove,table.sort,(string.unpack),string.gmatch,string.find,string.reverse,tostring,math.abs,rawget,string.format);
+local Players = game:GetService("Players")
+
+local localPlayer = Players.LocalPlayer
+
+-- Load WindUI
+
+local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+
+-- Show popup
+
+local Confirmed = false
+
+WindUI:Popup({
+
+    Title = "Lunn Hub",
+
+    Icon = "cuboid",
+
+    IconThemed = true,
+
+    Content = "Make sure you join our server for more updates",
+
+    Buttons = {
+
+        {
+
+            Title = "Cancel",
+
+            Callback = function() end,
+
+            Variant = "Secondary"
+
+        },
+
+        {
+
+            Title = "Continue",
+
+            Icon = "arrow-right",
+
+            Callback = function()
+
+                Confirmed = true
+
+            end,
+
+            Variant = "Primary"
+
+        }
+
+    }
+
+})
+
+repeat wait() until Confirmed
+
+-- Create Main Window
+
+local Window = WindUI:CreateWindow({
+
+    Title = "Adopt Me | Lunn Hub",
+
+    Icon = "laptop",
+
+    Author = "made by ivnzd",
+
+    Folder = "KuniHubAdoptMe",
+
+    Size = UDim2.fromOffset(520, 420),
+
+    Transparent = false,
+
+    Theme = "Dark",
+
+    User = {
+
+        Enabled = true,
+
+        Callback = function() end,
+
+        Anonymous = false
+
+    },
+
+    SideBarWidth = 150,
+
+    ScrollBarEnabled = true
+
+})
+
+Window:EditOpenButton({
+
+    Title = "Open Lunn Hub",
+
+    Icon = "rbxassetid://4483345998",
+
+    CornerRadius = UDim.new(0, 16),
+
+    StrokeThickness = 2,
+
+    Color = ColorSequence.new(Color3.fromHex("5787d2"), Color3.fromHex("ffffff")),
+
+    OnlyMobile = false,
+
+    Enabled = true,
+
+    Draggable = true
+
+})
+
+Window:SetToggleKey(Enum.KeyCode.K)
+
+-------------------------------------------------------
+
+--                CREATE TABS
+
+-------------------------------------------------------
+
+local GingerbreadTab = Window:Tab({
+
+    Title = "Gingerbread Farm",
+
+    Icon = "cookie",
+
+    Desc = "Auto farm gingerbread"
+
+})
+
+local PetSpawnerTab = Window:Tab({
+
+    Title = "Pet Spawner",
+
+    Icon = "heart",
+
+    Desc = "Spawn pets"
+
+})
+
+local TeleportsTab = Window:Tab({
+
+    Title = "Teleports",
+
+    Icon = "map-pin",
+
+    Desc = "Teleport to locations"
+
+})
+
+local MinigamesTab = Window:Tab({
+
+    Title = "Minigames",
+
+    Icon = "gamepad-2",
+
+    Desc = "Auto play minigames"
+
+})
+
+local MiscTab = Window:Tab({
+
+    Title = "Misc",
+
+    Icon = "settings",
+
+    Desc = "Miscellaneous features"
+
+})
+
+local HouseClonerTab = Window:Tab({
+
+    Title = "House Cloner",
+
+    Icon = "skull",
+
+    Desc = "Clone and load houses"
+
+})
+
+local DiscordTab = Window:Tab({
+
+    Title = "Discord",
+
+    Icon = "users",
+
+    Desc = "Join our community"
+
+})
+
+-------------------------------------------------------
+
+--          GINGERBREAD FARM SETTINGS
+
+-------------------------------------------------------
+
+local GingerbreadSettings = {
+
+    Farming = false,
+
+    Delay = 0.5,
+
+    StartIndex = 32,
+
+    EndIndex = 188,
+
+    AntiAFK = true,
+
+    Notifications = true,
+
+    CurrentIndex = 32,
+
+    CollectEnabled = true
+
+}
+
+local GingerbreadStats = {
+
+    Collected = 0,
+
+    Loops = 0,
+
+    StartTime = 0
+
+}
+
+-- Character references
+
+local Character = localPlayer.Character or localPlayer.CharacterAdded:Wait()
+
+local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+
+localPlayer.CharacterAdded:Connect(function(newChar)
+
+    Character = newChar
+
+    HumanoidRootPart = newChar:WaitForChild("HumanoidRootPart")
+
+end)
+
+-- Gingerbread Functions
+
+local function getGingerbreadPosition(index)
+
+    local interior = workspace:FindFirstChild("Interiors")
+
+    if not interior then return nil end
+
+    
+
+    local christmas = interior:FindFirstChild("MainMap!Christmas")
+
+    if not christmas then return nil end
+
+    
+
+    local children = christmas:GetChildren()
+
+    if index < 1 or index > #children then return nil end
+
+    
+
+    local model = children[index]
+
+    if not model then return nil end
+
+    
+
+    local gingerbread = model:FindFirstChild("GingerbreadMan") or 
+
+                       model:FindFirstChild("Gingerbread") or
+
+                       model:FindFirstChildWhichIsA("Model")
+
+    
+
+    if gingerbread then
+
+        local basePart = gingerbread:FindFirstChildWhichIsA("BasePart")
+
+        if basePart then
+
+            return basePart.CFrame
+
+        elseif gingerbread:IsA("BasePart") then
+
+            return gingerbread.CFrame
+
+        end
+
+    end
+
+    
+
+    local primaryPart = model.PrimaryPart
+
+    if primaryPart then
+
+        return primaryPart.CFrame
+
+    end
+
+    
+
+    return model:GetPivot()
+
+end
+
+local function tryCollect()
+
+    if not GingerbreadSettings.CollectEnabled then return false end
+
+    
+
+    local replicatedStorage = game:GetService("ReplicatedStorage")
+
+    local remotePaths = {"adoptme_new_net", "adoptme_net", "MainRemote", "IceSkatingNet"}
+
+    local eventNames = {
+
+        "adoptme_legacy_shared.ContentPacks.Winter2025.Game.IceSkating.IceSkatingNet:16",
+
+        "IceSkating:CollectGingerbread",
+
+        "CollectGingerbread",
+
+        "CollectGingerbreadMan",
+
+        "WinterEvent:Collect"
+
+    }
+
+    
+
+    for _, path in pairs(remotePaths) do
+
+        local remote = replicatedStorage:FindFirstChild(path)
+
+        if remote then
+
+            for _, eventName in pairs(eventNames) do
+
+                local event = remote:FindFirstChild(eventName)
+
+                if event then
+
+                    local success = pcall(function()
+
+                        event:FireServer()
+
+                    end)
+
+                    if success then return true end
+
+                end
+
+            end
+
+        end
+
+    end
+
+    return false
+
+end
+
+local function startGingerbreadFarming()
+
+    GingerbreadStats.StartTime = tick()
+
+    
+
+    while GingerbreadSettings.Farming and HumanoidRootPart do
+
+        for i = GingerbreadSettings.StartIndex, GingerbreadSettings.EndIndex do
+
+            if not GingerbreadSettings.Farming then break end
+
+            if not HumanoidRootPart then break end
+
+            
+
+            GingerbreadSettings.CurrentIndex = i
+
+            
+
+            local cframe = getGingerbreadPosition(i)
+
+            if cframe then
+
+                HumanoidRootPart.CFrame = cframe + Vector3.new(0, 3, 0)
+
+                task.wait(0.3)
+
+                
+
+                if GingerbreadSettings.CollectEnabled then
+
+                    local collected = tryCollect()
+
+                    if collected then
+
+                        GingerbreadStats.Collected = GingerbreadStats.Collected + 1
+
+                    end
+
+                end
+
+            end
+
+            
+
+            if GingerbreadSettings.Farming then
+
+                for waitTime = 0, GingerbreadSettings.Delay, 0.1 do
+
+                    if not GingerbreadSettings.Farming then break end
+
+                    task.wait(0.1)
+
+                end
+
+            end
+
+        end
+
+        
+
+        if GingerbreadSettings.Farming then
+
+            GingerbreadStats.Loops = GingerbreadStats.Loops + 1
+
+            task.wait(1)
+
+        end
+
+    end
+
+end
+
+-- Anti-AFK
+
+local function setupAntiAFK()
+
+    if GingerbreadSettings.AntiAFK then
+
+        local VirtualUser = game:GetService("VirtualUser")
+
+        localPlayer.Idled:Connect(function()
+
+            VirtualUser:Button2Down(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+
+            task.wait(1)
+
+            VirtualUser:Button2Up(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+
+        end)
+
+    end
+
+end
+
+setupAntiAFK()
+
+-------------------------------------------------------
+
+--          GINGERBREAD TAB UI
+
+-------------------------------------------------------
+
+GingerbreadTab:Paragraph({
+
+    Title = "Gingerbread Auto Farm",
+
+    Desc = "Automatically teleport to and collect gingerbread items",
+
+    Image = "cookie",
+
+    Color = "Blue"
+
+})
+
+GingerbreadTab:Toggle({
+
+    Title = "Start Farming",
+
+    Default = false,
+
+    Callback = function(value)
+
+        GingerbreadSettings.Farming = value
+
+        if value then
+
+            GingerbreadStats.Collected = 0
+
+            GingerbreadStats.Loops = 0
+
+            WindUI:Notify({
+
+                Title = "Farming Started",
+
+                Content = "Gingerbread farming is now active!",
+
+                Icon = "check",
+
+                Duration = 3
+
+            })
+
+            task.spawn(startGingerbreadFarming)
+
+        else
+
+            WindUI:Notify({
+
+                Title = "Farming Stopped",
+
+                Content = "Stopped at index " .. GingerbreadSettings.CurrentIndex,
+
+                Icon = "x",
+
+                Duration = 3
+
+            })
+
+        end
+
+    end
+
+})
+
+GingerbreadTab:Toggle({
+
+    Title = "Auto Collect",
+
+    Default = true,
+
+    Callback = function(value)
+
+        GingerbreadSettings.CollectEnabled = value
+
+    end
+
+})
+
+GingerbreadTab:Slider({
+
+    Title = "Teleport Delay",
+
+    Min = 0.1,
+
+    Max = 3,
+
+    Default = 0.5,
+
+    Callback = function(value)
+
+        GingerbreadSettings.Delay = value
+
+    end
+
+})
+
+GingerbreadTab:Input({
+
+    Title = "Start Index",
+
+    Value = "32",
+
+    InputIcon = "hash",
+
+    Placeholder = "Enter start index (1-200)",
+
+    Callback = function(input)
+
+        local num = tonumber(input)
+
+        if num and num >= 1 and num <= 200 then
+
+            GingerbreadSettings.StartIndex = num
+
+            GingerbreadSettings.CurrentIndex = num
+
+        end
+
+    end
+
+})
+
+GingerbreadTab:Input({
+
+    Title = "End Index",
+
+    Value = "188",
+
+    InputIcon = "hash",
+
+    Placeholder = "Enter end index (1-200)",
+
+    Callback = function(input)
+
+        local num = tonumber(input)
+
+        if num and num >= 1 and num <= 200 then
+
+            GingerbreadSettings.EndIndex = num
+
+        end
+
+    end
+
+})
+
+GingerbreadTab:Button({
+
+    Title = "Test Current Position",
+
+    Icon = "map-pin",
+
+    Callback = function()
+
+        pcall(function()
+
+            local cframe = getGingerbreadPosition(GingerbreadSettings.CurrentIndex)
+
+            if cframe and HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = cframe + Vector3.new(0, 3, 0)
+
+                WindUI:Notify({
+
+                    Title = "Test Teleport",
+
+                    Content = "Teleported to index " .. GingerbreadSettings.CurrentIndex,
+
+                    Icon = "navigation",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+GingerbreadTab:Button({
+
+    Title = "Reset Statistics",
+
+    Icon = "refresh-ccw",
+
+    Callback = function()
+
+        GingerbreadStats.Collected = 0
+
+        GingerbreadStats.Loops = 0
+
+        GingerbreadStats.StartTime = tick()
+
+        WindUI:Notify({
+
+            Title = "Stats Reset",
+
+            Content = "All statistics cleared",
+
+            Icon = "check",
+
+            Duration = 2
+
+        })
+
+    end
+
+})
+
+-- Live Stats Display
+
+task.spawn(function()
+
+    while true do
+
+        pcall(function()
+
+            local status = GingerbreadSettings.Farming and "Running" or "Stopped"
+
+            local runtime = string.format("%.1f", (tick() - GingerbreadStats.StartTime) / 60)
+
+            print(string.format(
+
+                "[Gingerbread Farm] Status: %s | Index: %d | Collected: %d | Loops: %d | Runtime: %s min",
+
+                status, GingerbreadSettings.CurrentIndex, GingerbreadStats.Collected, 
+
+                GingerbreadStats.Loops, runtime
+
+            ))
+
+        end)
+
+        task.wait(5)
+
+    end
+
+end)
+
+-------------------------------------------------------
+
+--          PET SPAWNER SETUP
+
+-------------------------------------------------------
+
+task.spawn(function()
+
+    local load = require(game.ReplicatedStorage:WaitForChild("Fsys")).load
+
+    
+
+    set_thread_identity(2)
+
+    local clientData = load("ClientData")
+
+    local items = load("KindDB")
+
+    local router = load("RouterClient")
+
+    local downloader = load("DownloadClient")
+
+    local animationManager = load("AnimationManager")
+
+    local petRigs = load("new:PetRigs")
+
+    set_thread_identity(8)
+
+    
+
+    local petModels = {}
+
+    local pets = {}
+
+    local equippedPet = nil
+
+    local mountedPet = nil
+
+    local currentMountTrack = nil
+
+    
+
+    local function updateData(key, action)
+
+        local data = clientData.get(key)
+
+        local clonedData = table.clone(data)
+
+        clientData.predict(key, action(clonedData))
+
+    end
+
+    
+
+    local function getUniqueId()
+
+        local HttpService = game:GetService("HttpService")
+
+        return HttpService:GenerateGUID(false)
+
+    end
+
+    
+
+    local function getPetModel(kind)
+
+        if petModels[kind] then
+
+            return petModels[kind]
+
+        end
+
+        local streamed = downloader.promise_download_copy("Pets", kind):expect()
+
+        petModels[kind] = streamed
+
+        return streamed
+
+    end
+
+    
+
+    local function createPet(id, properties)
+
+        local uniqueId = getUniqueId()
+
+        local pet = nil
+
+        
+
+        set_thread_identity(2)
+
+        updateData("inventory", function(inventory)
+
+            local newPets = table.clone(inventory.pets)
+
+            local item = items[id]
+
+            pet = {
+
+                unique = uniqueId,
+
+                category = "pets",
+
+                id = id,
+
+                kind = item.kind,
+
+                newness_order = 0,
+
+                properties = properties
+
+            }
+
+            newPets[uniqueId] = pet
+
+            inventory.pets = newPets
+
+            return inventory
+
+        end)
+
+        
+
+        set_thread_identity(8)
+
+        pets[uniqueId] = {data = pet, model = nil}
+
+        return pet
+
+    end
+
+    
+
+    local function neonify(model, entry)
+
+        local petModel = model:FindFirstChild("PetModel")
+
+        if not petModel then return end
+
+        for neonPart, configuration in pairs(entry.neon_parts) do
+
+            local trueNeonPart = petRigs.get(petModel).get_geo_part(petModel, neonPart)
+
+            trueNeonPart.Material = configuration.Material
+
+            trueNeonPart.Color = configuration.Color
+
+        end
+
+    end
+
+    
+
+    local function addPetWrapper(wrapper)
+
+        updateData("pet_char_wrappers", function(petWrappers)
+
+            wrapper.unique = #petWrappers + 1
+
+            wrapper.index = #petWrappers + 1
+
+            petWrappers[#petWrappers + 1] = wrapper
+
+            return petWrappers
+
+        end)
+
+    end
+
+    
+
+    local function addPetState(state)
+
+        updateData("pet_state_managers", function(petStates)
+
+            petStates[#petStates + 1] = state
+
+            return petStates
+
+        end)
+
+    end
+
+    
+
+    local function findIndex(array, finder)
+
+        for index, value in pairs(array) do
+
+            if finder(value, index) then
+
+                return index
+
+            end
+
+        end
+
+        return nil
+
+    end
+
+    
+
+    local function removePetWrapper(uniqueId)
+
+        updateData("pet_char_wrappers", function(petWrappers)
+
+            local index = findIndex(petWrappers, function(wrapper)
+
+                return wrapper.pet_unique == uniqueId
+
+            end)
+
+            if not index then return petWrappers end
+
+            table.remove(petWrappers, index)
+
+            for wrapperIndex, wrapper in pairs(petWrappers) do
+
+                wrapper.unique = wrapperIndex
+
+                wrapper.index = wrapperIndex
+
+            end
+
+            return petWrappers
+
+        end)
+
+    end
+
+    
+
+    local function clearPetState(uniqueId)
+
+        local pet = pets[uniqueId]
+
+        if not pet or not pet.model then return end
+
+        updateData("pet_state_managers", function(states)
+
+            local index = findIndex(states, function(state)
+
+                return state.char == pet.model
+
+            end)
+
+            if not index then return states end
+
+            local clonedStates = table.clone(states)
+
+            clonedStates[index] = table.clone(clonedStates[index])
+
+            clonedStates[index].states = {}
+
+            return clonedStates
+
+        end)
+
+    end
+
+    
+
+    local function setPetState(uniqueId, id)
+
+        local pet = pets[uniqueId]
+
+        if not pet or not pet.model then return end
+
+        updateData("pet_state_managers", function(states)
+
+            local index = findIndex(states, function(state)
+
+                return state.char == pet.model
+
+            end)
+
+            if not index then return states end
+
+            local clonedStates = table.clone(states)
+
+            clonedStates[index] = table.clone(clonedStates[index])
+
+            clonedStates[index].states = {{id = id}}
+
+            return clonedStates
+
+        end)
+
+    end
+
+    
+
+    local function attachPlayerToPet(pet)
+
+        local character = game.Players.LocalPlayer.Character
+
+        if not character or not character.PrimaryPart then return false end
+
+        local ridePosition = pet:FindFirstChild("RidePosition", true)
+
+        if not ridePosition then return false end
+
+        
+
+        local sourceAttachment = Instance.new("Attachment")
+
+        sourceAttachment.Parent = ridePosition
+
+        sourceAttachment.Position = Vector3.new(0, 1.237, 0)
+
+        sourceAttachment.Name = "SourceAttachment"
+
+        
+
+        local stateConnection = Instance.new("RigidConstraint")
+
+        stateConnection.Name = "StateConnection"
+
+        stateConnection.Attachment0 = sourceAttachment
+
+        stateConnection.Attachment1 = character.PrimaryPart.RootAttachment
+
+        stateConnection.Parent = character
+
+        return true
+
+    end
+
+    
+
+    local function clearPlayerState()
+
+        updateData("state_manager", function(state)
+
+            local clonedState = table.clone(state)
+
+            clonedState.states = {}
+
+            clonedState.is_sitting = false
+
+            return clonedState
+
+        end)
+
+    end
+
+    
+
+    local function setPlayerState(id)
+
+        updateData("state_manager", function(state)
+
+            local clonedState = table.clone(state)
+
+            clonedState.states = {{id = id}}
+
+            clonedState.is_sitting = true
+
+            return clonedState
+
+        end)
+
+    end
+
+    
+
+    local function removePetState(uniqueId)
+
+        local pet = pets[uniqueId]
+
+        if not pet or not pet.model then return end
+
+        updateData("pet_state_managers", function(petStates)
+
+            local index = findIndex(petStates, function(state)
+
+                return state.char == pet.model
+
+            end)
+
+            if not index then return petStates end
+
+            table.remove(petStates, index)
+
+            return petStates
+
+        end)
+
+    end
+
+    
+
+    local function unmount(uniqueId)
+
+        local pet = pets[uniqueId]
+
+        if not pet or not pet.model then return end
+
+        if currentMountTrack then
+
+            currentMountTrack:Stop()
+
+            currentMountTrack:Destroy()
+
+        end
+
+        local sourceAttachment = pet.model:FindFirstChild("SourceAttachment", true)
+
+        if sourceAttachment then
+
+            sourceAttachment:Destroy()
+
+        end
+
+        if game.Players.LocalPlayer.Character then
+
+            for _, d in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+
+                if d:IsA("BasePart") and d:GetAttribute("HaveMass") then
+
+                    d.Massless = false
+
+                end
+
+            end
+
+        end
+
+        clearPetState(uniqueId)
+
+        clearPlayerState()
+
+        pet.model:ScaleTo(1)
+
+        mountedPet = nil
+
+    end
+
+    
+
+    local function mount(uniqueId, playerState, petState)
+
+        local pet = pets[uniqueId]
+
+        if not pet or not pet.model then return end
+
+        local player = game.Players.LocalPlayer
+
+        if not player.Character or not player.Character.PrimaryPart then return end
+
+        mountedPet = uniqueId
+
+        setPetState(uniqueId, petState)
+
+        setPlayerState(playerState)
+
+        pet.model:ScaleTo(2)
+
+        attachPlayerToPet(pet.model)
+
+        currentMountTrack = player.Character.Humanoid.Animator:LoadAnimation(animationManager.get_track("PlayerRidingPet"))
+
+        player.Character.Humanoid.Sit = true
+
+        for _, d in pairs(player.Character:GetDescendants()) do
+
+            if d:IsA("BasePart") and d.Massless == false then
+
+                d.Massless = true
+
+                d:SetAttribute("HaveMass", true)
+
+            end
+
+        end
+
+        currentMountTrack:Play()
+
+    end
+
+    
+
+    local function fly(uniqueId)
+
+        mount(uniqueId, "PlayerFlyingPet", "PetBeingFlown")
+
+    end
+
+    
+
+    local function ride(uniqueId)
+
+        mount(uniqueId, "PlayerRidingPet", "PetBeingRidden")
+
+    end
+
+    
+
+    local function unequip(item)
+
+        local pet = pets[item.unique]
+
+        if not pet or not pet.model then return end
+
+        unmount(item.unique)
+
+        removePetWrapper(item.unique)
+
+        removePetState(item.unique)
+
+        pet.model:Destroy()
+
+        pet.model = nil
+
+        equippedPet = nil
+
+    end
+
+    
+
+    local function equip(item)
+
+        if equippedPet then
+
+            unequip(equippedPet)
+
+        end
+
+        local petModel = getPetModel(item.kind):Clone()
+
+        petModel.Parent = workspace
+
+        pets[item.unique].model = petModel
+
+        if item.properties.neon or item.properties.mega_neon then
+
+            neonify(petModel, items[item.kind])
+
+        end
+
+        equippedPet = item
+
+        addPetWrapper({
+
+            char = petModel,
+
+            mega_neon = item.properties.mega_neon,
+
+            neon = item.properties.neon,
+
+            player = game.Players.LocalPlayer,
+
+            entity_controller = game.Players.LocalPlayer,
+
+            controller = game.Players.LocalPlayer,
+
+            rp_name = item.properties.rp_name or "",
+
+            pet_trick_level = item.properties.pet_trick_level,
+
+            pet_unique = item.unique,
+
+            pet_id = item.id,
+
+            location = {
+
+                full_destination_id = "housing",
+
+                destination_id = "housing",
+
+                house_owner = game.Players.LocalPlayer
+
+            },
+
+            pet_progression = {
+
+                friendship_level = item.properties.friendship_level,
+
+                age = item.properties.age,
+
+                percentage = 0
+
+            },
+
+            are_colors_sealed = false,
+
+            is_pet = true
+
+        })
+
+        addPetState({
+
+            char = petModel,
+
+            player = game.Players.LocalPlayer,
+
+            store_key = "pet_state_managers",
+
+            is_sitting = false,
+
+            chars_connected_to_me = {},
+
+            states = {}
+
+        })
+
+    end
+
+    
+
+    local oldGet = router.get
+
+    local function createRemoteFunctionMock(callback)
+
+        return {
+
+            InvokeServer = function(_, ...)
+
+                return callback(...)
+
+            end
+
+        }
+
+    end
+
+    
+
+    local function createRemoteEventMock(callback)
+
+        return {
+
+            FireServer = function(_, ...)
+
+                return callback(...)
+
+            end
+
+        }
+
+    end
+
+    
+
+    local equipRemote = createRemoteFunctionMock(function(uniqueId, metadata)
+
+        local pet = pets[uniqueId]
+
+        if not pet then return end
+
+        equip(pet.data)
+
+        return true, {action = "equip", is_server = true}
+
+    end)
+
+    
+
+    local unequipRemote = createRemoteFunctionMock(function(uniqueId)
+
+        local pet = pets[uniqueId]
+
+        if not pet then return end
+
+        unequip(pet.data)
+
+        return true, {action = "unequip", is_server = true}
+
+    end)
+
+    
+
+    local rideRemote = createRemoteFunctionMock(function(item)
+
+        ride(item.pet_unique)
+
+    end)
+
+    
+
+    local flyRemote = createRemoteFunctionMock(function(item)
+
+        fly(item.pet_unique)
+
+    end)
+
+    
+
+    local unmountRemoteFunction = createRemoteFunctionMock(function()
+
+        unmount(mountedPet)
+
+    end)
+
+    
+
+    local unmountRemoteEvent = createRemoteEventMock(function()
+
+        unmount(mountedPet)
+
+    end)
+
+    
+
+    router.get = function(name)
+
+        if name == "ToolAPI/Equip" then
+
+            return equipRemote
+
+        end
+
+        if name == "ToolAPI/Unequip" then
+
+            return unequipRemote
+
+        end
+
+        if name == "AdoptAPI/RidePet" then
+
+            return rideRemote
+
+        end
+
+        if name == "AdoptAPI/FlyPet" then
+
+            return flyRemote
+
+        end
+
+        if name == "AdoptAPI/ExitSeatStatesYield" then
+
+            return unmountRemoteFunction
+
+        end
+
+        if name == "AdoptAPI/ExitSeatStates" then
+
+            return unmountRemoteEvent
+
+        end
+
+        return oldGet(name)
+
+    end
+
+    
+
+    for _, charWrapper in pairs(clientData.get("pet_char_wrappers")) do
+
+        oldGet("ToolAPI/Unequip"):InvokeServer(charWrapper.pet_unique)
+
+    end
+
+    
+
+    local Loads = require(game.ReplicatedStorage.Fsys).load
+
+    local InventoryDB = Loads("InventoryDB")
+
+    
+
+    function GetPetByName(name)
+
+        for i, v in pairs(InventoryDB.pets) do
+
+            if v.name:lower() == name:lower() then
+
+                return v.id
+
+            end
+
+        end
+
+        return false
+
+    end
+
+    
+
+    -- Pet Spawner UI Variables
+
+    _G.PetSpawnerData = {
+
+        petName = nil,
+
+        petType = "FR",
+
+        createPet = createPet,
+
+        GetPetByName = GetPetByName
+
+    }
+
+end)
+
+-------------------------------------------------------
+
+--          PET SPAWNER TAB UI
+
+-------------------------------------------------------
+
+PetSpawnerTab:Paragraph({
+
+    Title = "Pet Spawner",
+
+    Desc = "Enter pet name and choose type before spawning",
+
+    Image = "heart",
+
+    Color = "Blue"
+
+})
+
+PetSpawnerTab:Input({
+
+    Title = "Pet Name",
+
+    Value = "",
+
+    InputIcon = "search",
+
+    Placeholder = "Enter pet name",
+
+    Callback = function(input)
+
+        if _G.PetSpawnerData then
+
+            _G.PetSpawnerData.petName = input
+
+            print("Pet name set to:", input)
+
+        end
+
+    end
+
+})
+
+PetSpawnerTab:Dropdown({
+
+    Title = "Pet Type",
+
+    Values = {"FR", "NFR", "MFR"},
+
+    Multi = false,
+
+    Default = "FR",
+
+    Callback = function(value)
+
+        if _G.PetSpawnerData then
+
+            _G.PetSpawnerData.petType = value
+
+            print("Pet type set to:", value)
+
+        end
+
+    end
+
+})
+
+PetSpawnerTab:Button({
+
+    Title = "Spawn Pet",
+
+    Icon = "sparkles",
+
+    Callback = function()
+
+        task.spawn(function()
+
+            if not _G.PetSpawnerData then
+
+                WindUI:Notify({
+
+                    Title = "Error",
+
+                    Content = "Pet spawner not loaded yet. Please wait.",
+
+                    Icon = "alert-circle",
+
+                    Duration = 3
+
+                })
+
+                return
+
+            end
+
+            
+
+            local petName = _G.PetSpawnerData.petName
+
+            local petType = _G.PetSpawnerData.petType
+
+            
+
+            if not petName or petName == "" then
+
+                WindUI:Notify({
+
+                    Title = "Error",
+
+                    Content = "Please enter a pet name!",
+
+                    Icon = "alert-circle",
+
+                    Duration = 3
+
+                })
+
+                return
+
+            end
+
+            
+
+            local petId = _G.PetSpawnerData.GetPetByName(petName)
+
+            if not petId then
+
+                WindUI:Notify({
+
+                    Title = "Error",
+
+                    Content = "Pet not found! Please try again.",
+
+                    Icon = "shield-alert",
+
+                    Duration = 3
+
+                })
+
+                return
+
+            end
+
+            
+
+            WindUI:Notify({
+
+                Title = "Spawning Pet",
+
+                Content = "Creating " .. petName .. " (" .. petType .. ")",
+
+                Icon = "loader",
+
+                Duration = 2
+
+            })
+
+            
+
+            if petType == "FR" then
+
+                _G.PetSpawnerData.createPet(petId, {
+
+                    pet_trick_level = 0,
+
+                    rideable = true,
+
+                    flyable = true,
+
+                    friendship_level = 0,
+
+                    age = 1,
+
+                    ailments_completed = 0,
+
+                    rp_name = ""
+
+                })
+
+            elseif petType == "NFR" then
+
+                _G.PetSpawnerData.createPet(petId, {
+
+                    pet_trick_level = 0,
+
+                    neon = true,
+
+                    rideable = true,
+
+                    flyable = true,
+
+                    friendship_level = 0,
+
+                    age = 1,
+
+                    ailments_completed = 0,
+
+                    rp_name = ""
+
+                })
+
+            elseif petType == "MFR" then
+
+                _G.PetSpawnerData.createPet(petId, {
+
+                    pet_trick_level = 0,
+
+                    mega_neon = true,
+
+                    rideable = true,
+
+                    flyable = true,
+
+                    friendship_level = 0,
+
+                    age = 1,
+
+                    ailments_completed = 0,
+
+                    rp_name = ""
+
+                })
+
+            end
+
+            
+
+            WindUI:Notify({
+
+                Title = "Success",
+
+                Content = "Pet spawned successfully!",
+
+                Icon = "check",
+
+                Duration = 3
+
+            })
+
+        end)
+
+    end
+
+})
+
+-------------------------------------------------------
+
+--          TELEPORTS TAB
+
+-------------------------------------------------------
+
+TeleportsTab:Paragraph({
+
+    Title = "Christmas Event Teleports",
+
+    Desc = "Quick teleport to event locations",
+
+    Image = "map-pin",
+
+    Color = "Blue"
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Christmas Spirit",
+
+    Icon = "sparkles",
+
+    Callback = function()
+
+        pcall(function()
+
+            local spirit = workspace.Interiors["MainMap!Christmas"].Event.PetEntities:GetChildren()[2]
+
+            if spirit and HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = spirit.PetModel.MockParts.Head:GetPivot()
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Christmas Spirit!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            else
+
+                WindUI:Notify({
+
+                    Title = "Error",
+
+                    Content = "Christmas Spirit not found!",
+
+                    Icon = "alert-circle",
+
+                    Duration = 3
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Maine Coon",
+
+    Icon = "cat",
+
+    Callback = function()
+
+        pcall(function()
+
+            if HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = workspace.Interiors["MainMap!Christmas"].Event.Winter2025.Winter2025MaineCoonClient.PetModel.MockParts.Head:GetPivot()
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Maine Coon!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Christmas Train",
+
+    Icon = "train",
+
+    Callback = function()
+
+        pcall(function()
+
+            if HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = workspace["Merry Mistletroll"].PetModel.HumanoidRootPart.CFrame
+
+                game:GetService("ReplicatedStorage").adoptme_new_net:FindFirstChild("adoptme_legacy_shared.ContentPacks.Winter2025.Game.Train.WinterTrainNet:7"):FireServer({
+
+                    carriage = workspace.WinterTrainSeats.Seat
+
+                })
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Christmas Train!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Sleighball Join Zone",
+
+    Icon = "gamepad",
+
+    Callback = function()
+
+        pcall(function()
+
+            if HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = CFrame.new(-78.3324432, 31.1505432, -1622.28735)
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Sleighball!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Humbug Join Zone",
+
+    Icon = "gamepad-2",
+
+    Callback = function()
+
+        pcall(function()
+
+            if HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = CFrame.new(-253.122971, 33.4183197, -1464.85608)
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Humbug!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+TeleportsTab:Paragraph({
+
+    Title = "Main World Teleports",
+
+    Desc = "Teleport to common locations",
+
+    Color = "Green"
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Gift Display",
+
+    Icon = "gift",
+
+    Callback = function()
+
+        pcall(function()
+
+            if HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = CFrame.new(-252.171509, 30.0899029, -1651.99988)
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Gift Display!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Nursery",
+
+    Icon = "baby-carriage",
+
+    Callback = function()
+
+        pcall(function()
+
+            if HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = CFrame.new(-245.43, 16.13, -1525.58)
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Nursery!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+TeleportsTab:Button({
+
+    Title = "Cave",
+
+    Icon = "mountain",
+
+    Callback = function()
+
+        pcall(function()
+
+            if HumanoidRootPart then
+
+                HumanoidRootPart.CFrame = CFrame.new(-564.58, 41.28, -364.11)
+
+                WindUI:Notify({
+
+                    Title = "Teleported",
+
+                    Content = "Teleported to Cave!",
+
+                    Icon = "check",
+
+                    Duration = 2
+
+                })
+
+            end
+
+        end)
+
+    end
+
+})
+
+-------------------------------------------------------
+
+--          MINIGAMES TAB
+
+-------------------------------------------------------
+
+getgenv().AutoSleighball = false
+
+getgenv().AutoHumbug = false
+
+getgenv().Teleporting = false
+
+MinigamesTab:Paragraph({
+
+    Title = "Minigame Features",
+
+    Desc = "Auto join and play minigames",
+
+    Image = "gamepad-2",
+
+    Color = "Blue"
+
+})
+
+MinigamesTab:Toggle({
+
+    Title = "Auto Join Sleighball (10s)",
+
+    Default = false,
+
+    Callback = function(value)
+
+        getgenv().AutoSleigh = value
+
+        if value then
+
+            task.spawn(function()
+
+                while getgenv().AutoSleigh do
+
+                    task.wait(0.5)
+
+                    pcall(function()
+
+                        if not getgenv().Teleporting and HumanoidRootPart then
+
+                            for _, label in pairs(localPlayer.PlayerGui:GetDescendants()) do
+
+                                if label:IsA("TextLabel") and label.Visible then
+
+                                    local text = label.Text:lower()
+
+                                    if text:find("sleigh") and text:match("%d+:%d+") then
+
+                                        local min, sec = text:match("(%d+):(%d+)")
+
+                                        min = tonumber(min)
+
+                                        sec = tonumber(sec)
+
+                                        if min == 0 and sec and sec <= 10 and sec >= 1 then
+
+                                            getgenv().Teleporting = true
+
+                                            HumanoidRootPart.CFrame = CFrame.new(-78.3324432, 31.1505432, -1622.28735)
+
+                                            task.wait(8)
+
+                                            getgenv().Teleporting = false
+
+                                        end
+
+                                    end
+
+                                end
+
+                            end
+
+                        end
+
+                    end)
+
+                end
+
+            end)
+
+        end
+
+    end
+
+})
+
+MinigamesTab:Toggle({
+
+    Title = "Auto Join Humbug (10s)",
+
+    Default = false,
+
+    Callback = function(value)
+
+        getgenv().AutoHumbug = value
+
+        if value then
+
+            task.spawn(function()
+
+                while getgenv().AutoHumbug do
+
+                    task.wait(0.5)
+
+                    pcall(function()
+
+                        if not getgenv().Teleporting and HumanoidRootPart then
+
+                            for _, label in pairs(localPlayer.PlayerGui:GetDescendants()) do
+
+                                if label:IsA("TextLabel") and label.Visible then
+
+                                    local text = label.Text:lower()
+
+                                    if text:find("humbug") and text:match("%d+:%d+") then
+
+                                        local min, sec = text:match("(%d+):(%d+)")
+
+                                        min = tonumber(min)
+
+                                        sec = tonumber(sec)
+
+                                        if min == 0 and sec and sec <= 10 and sec >= 1 then
+
+                                            getgenv().Teleporting = true
+
+                                            HumanoidRootPart.CFrame = CFrame.new(-253.122971, 33.4183197, -1464.85608)
+
+                                            task.wait(8)
+
+                                            getgenv().Teleporting = false
+
+                                        end
+
+                                    end
+
+                                end
+
+                            end
+
+                        end
+
+                    end)
+
+                end
+
+            end)
+
+        end
+
+    end
+
+})
+
+MinigamesTab:Toggle({
+
+    Title = "Auto Play Sleighball",
+
+    Default = false,
+
+    Callback = function(value)
+
+        getgenv().AutoSleighball = value
+
+        if value then
+
+            task.spawn(function()
+
+                local TweenService = game:GetService("TweenService")
+
+                while getgenv().AutoSleighball do
+
+                    task.wait(0.25)
+
+                    pcall(function()
+
+                        if HumanoidRootPart then
+
+                            local interior = nil
+
+                            for _, child in ipairs(workspace.Interiors:GetChildren()) do
+
+                                if child.Name:find("SleighballInterior") then
+
+                                    interior = child
+
+                                    break
+
+                                end
+
+                            end
+
+                            
+
+                            if interior and interior:FindFirstChild("Game") then
+
+                                local game = interior.Game
+
+                                if game:FindFirstChild("Bin") and game:FindFirstChild("Goals") then
+
+                                    local ball = nil
+
+                                    for _, item in ipairs(game.Bin:GetDescendants()) do
+
+                                        if item:IsA("BasePart") then
+
+                                            ball = item
+
+                                            break
+
+                                        end
+
+                                    end
+
+                                    
+
+                                    if ball then
+
+                                        local tween = TweenService:Create(HumanoidRootPart, TweenInfo.new(0.45, Enum.EasingStyle.Linear), {
+
+                                            CFrame = ball.CFrame * CFrame.new(0, 3, 0)
+
+                                        })
+
+                                        tween:Play()
+
+                                        tween.Completed:Wait()
+
+                                        task.wait(0.15)
+
+                                        
+
+                                        local goals = {}
+
+                                        if game.Goals:FindFirstChild("GreenGoal") then
+
+                                            table.insert(goals, game.Goals.GreenGoal)
+
+                                        end
+
+                                        if game.Goals:FindFirstChild("RedGoal") then
+
+                                            table.insert(goals, game.Goals.RedGoal)
+
+                                        end
+
+                                        
+
+                                        for _, goal in ipairs(goals) do
+
+                                            if not getgenv().AutoSleighball then break end
+
+                                            tween = TweenService:Create(HumanoidRootPart, TweenInfo.new(0.4, Enum.EasingStyle.Linear), {
+
+                                                CFrame = goal.CFrame * CFrame.new(0, 3, 0)
+
+                                            })
+
+                                            tween:Play()
+
+                                            tween.Completed:Wait()
+
+                                            firetouchinterest(HumanoidRootPart, goal, 0)
+
+                                            task.wait(0.1)
+
+                                            firetouchinterest(HumanoidRootPart, goal, 1)
+
+                                            task.wait(0.2)
+
+                                        end
+
+                                    end
+
+                                end
+
+                            end
+
+                        end
+
+                    end)
+
+                end
+
+            end)
+
+        end
+
+    end
+
+})
+
+MinigamesTab:Button({
+
+    Title = "Finish Race (Penguin)",
+
+    Icon = "flag",
+
+    Callback = function()
+
+        pcall(function()
+
+            local TweenService = game:GetService("TweenService")
+
+            local christmas = workspace.Interiors["MainMap!Christmas"]
+
+            local tweenInfo = TweenInfo.new(0.5, Enum.EasingStyle.Linear)
+
+            
+
+            local gates = {}
+
+            for _, child in ipairs(christmas:GetChildren()) do
+
+                if child.Name == "GateTemplate" then
+
+                    local ring = child:FindFirstChild("Ring")
+
+                    if ring and ring:IsA("BasePart") then
+
+                        table.insert(gates, ring)
+
+                    end
+
+                end
+
+            end
+
+            
+
+            if #gates == 0 then
+
+                WindUI:Notify({
+
+                    Title = "Error",
+
+                    Content = "Race not started! Talk to Penguin first.",
+
+                    Icon = "alert-circle",
+
+                    Duration = 3
+
+                })
+
+                return
+
+            end
+
+            
+
+            for _, gate in ipairs(gates) do
+
+                if gate and HumanoidRootPart then
+
+                    local tween = TweenService:Create(HumanoidRootPart, tweenInfo, {
+
+                        CFrame = CFrame.new(gate.Position.X, gate.Position.Y + 2, gate.Position.Z)
+
+                    })
+
+                    tween:Play()
+
+                    tween.Completed:Wait()
+
+                end
+
+            end
+
+            
+
+            WindUI:Notify({
+
+                Title = "Success",
+
+                Content = "Race completed!",
+
+                Icon = "check",
+
+                Duration = 3
+
+            })
+
+        end)
+
+    end
+
+})
+
+MinigamesTab:Toggle({
+
+    Title = "Show Minigame Countdowns",
+
+    Default = false,
+
+    Callback = function(value)
+
+        getgenv().DualCountdownRunning = value
+
+        
+
+        if value then
+
+            local guiName = "DualCountdownGUI"
+
+            if localPlayer.PlayerGui:FindFirstChild(guiName) then
+
+                localPlayer.PlayerGui[guiName]:Destroy()
+
+            end
+
+            
+
+            local screenGui = Instance.new("ScreenGui")
+
+            screenGui.Name = guiName
+
+            screenGui.ResetOnSpawn = false
+
+            screenGui.Parent = localPlayer.PlayerGui
+
+            
+
+            local frame = Instance.new("Frame")
+
+            frame.Size = UDim2.new(0, 250, 0, 80)
+
+            frame.Position = UDim2.new(0.5, -125, 0.1, 0)
+
+            frame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+
+            frame.BackgroundTransparency = 0.3
+
+            frame.BorderSizePixel = 0
+
+            frame.Parent = screenGui
+
+            
+
+            Instance.new("UICorner", frame).CornerRadius = UDim.new(0, 8)
+
+            
+
+            local sleighLabel = Instance.new("TextLabel")
+
+            sleighLabel.Size = UDim2.new(1, 0, 0, 35)
+
+            sleighLabel.Position = UDim2.new(0, 0, 0, 5)
+
+            sleighLabel.BackgroundTransparency = 1
+
+            sleighLabel.TextColor3 = Color3.fromRGB(255, 100, 100)
+
+            sleighLabel.Font = Enum.Font.GothamBold
+
+            sleighLabel.TextSize = 18
+
+            sleighLabel.Text = "Sleighball: Waiting..."
+
+            sleighLabel.Parent = frame
+
+            
+
+            local humbugLabel = Instance.new("TextLabel")
+
+            humbugLabel.Size = UDim2.new(1, 0, 0, 35)
+
+            humbugLabel.Position = UDim2.new(0, 0, 0, 40)
+
+            humbugLabel.BackgroundTransparency = 1
+
+            humbugLabel.TextColor3 = Color3.fromRGB(100, 255, 100)
+
+            humbugLabel.Font = Enum.Font.GothamBold
+
+            humbugLabel.TextSize = 18
+
+            humbugLabel.Text = "Humbug: Waiting..."
+
+            humbugLabel.Parent = frame
+
+            
+
+            local function getTimer(zoneName)
+
+                local interiors = workspace:FindFirstChild("Interiors")
+
+                local christmas = interiors and interiors:FindFirstChild("MainMap!Christmas")
+
+                local zone = christmas and christmas:FindFirstChild(zoneName)
+
+                local billboard = zone and zone:FindFirstChild("Billboard")
+
+                local gui = billboard and billboard:FindFirstChild("BillboardGui")
+
+                local timer = gui and gui:FindFirstChild("TimerLabel")
+
+                return timer and timer.Text or "N/A"
+
+            end
+
+            
+
+            task.spawn(function()
+
+                while getgenv().DualCountdownRunning do
+
+                    task.wait(0.2)
+
+                    if not screenGui.Parent then break end
+
+                    sleighLabel.Text = "Sleighball: " .. getTimer("SleighballMinigameJoinZone")
+
+                    humbugLabel.Text = "Humbug: " .. getTimer("HumbugMinigameJoinZone")
+
+                end
+
+            end)
+
+        else
+
+            if localPlayer.PlayerGui:FindFirstChild("DualCountdownGUI") then
+
+                localPlayer.PlayerGui.DualCountdownGUI:Destroy()
+
+            end
+
+        end
+
+    end
+
+})
+
+-------------------------------------------------------
+
+--          MISC TAB
+
+-------------------------------------------------------
+
+MiscTab:Paragraph({
+
+    Title = "Miscellaneous Features",
+
+    Desc = "Various helpful utilities",
+
+    Image = "settings",
+
+    Color = "Blue"
+
+})
+
+MiscTab:Button({
+
+    Title = "Anti AFK",
+
+    Icon = "clock",
+
+    Callback = function()
+
+        local VirtualUser = game:GetService("VirtualUser")
+
+        localPlayer.Idled:Connect(function()
+
+            VirtualUser:Button2Down(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+
+            task.wait(1)
+
+            VirtualUser:Button2Up(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+
+        end)
+
+        WindUI:Notify({
+
+            Title = "Activated",
+
+            Content = "Anti-AFK is now active!",
+
+            Icon = "check",
+
+            Duration = 3
+
+        })
+
+    end
+
+})
+
+MiscTab:Toggle({
+
+    Title = "Auto Snowball Pug",
+
+    Default = false,
+
+    Callback = function(value)
+
+        getgenv().AutoSnowballPug = value
+
+        if value then
+
+            task.spawn(function()
+
+                while getgenv().AutoSnowballPug do
+
+                    task.wait(0.15)
+
+                    pcall(function()
+
+                        local api = game:GetService("ReplicatedStorage"):FindFirstChild("API")
+
+                        if api then
+
+                            for _, child in pairs(api:GetChildren()) do
+
+                                if child:IsA("RemoteFunction") then
+
+                                    child:InvokeServer(true)
+
+                                elseif child:IsA("RemoteEvent") then
+
+                                    child:FireServer()
+
+                                end
+
+                            end
+
+                        end
+
+                    end)
+
+                end
+
+            end)
+
+        end
+
+    end
+
+})
+
+MiscTab:Button({
+
+    Title = "Make All Pets Mega Neon",
+
+    Icon = "sparkles",
+
+    Callback = function()
+
+        pcall(function()
+
+            local ClientData = require(game.ReplicatedStorage.ClientModules.Core.ClientData)
+
+            for _, pet in pairs(ClientData.get_data()[tostring(localPlayer)].inventory.pets) do
+
+                pet.properties.rideable = true
+
+                pet.properties.flyable = true
+
+                pet.properties.mega_neon = true
+
+            end
+
+            WindUI:Notify({
+
+                Title = "Success",
+
+                Content = "All pets set to Mega Neon!",
+
+                Icon = "check",
+
+                Duration = 3
+
+            })
+
+        end)
+
+    end
+
+})
+
+MiscTab:Button({
+
+    Title = "Rejoin Server",
+
+    Icon = "refresh-cw",
+
+    Callback = function()
+
+        game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, localPlayer)
+
+    end
+
+})
+
+MiscTab:Button({
+
+    Title = "Server Hop",
+
+    Icon = "shuffle",
+
+    Callback = function()
+
+        local TeleportService = game:GetService("TeleportService")
+
+        local HttpService = game:GetService("HttpService")
+
+        
+
+        local servers = HttpService:JSONDecode(game:HttpGet("https://games.roblox.com/v1/games/" .. game.PlaceId .. "/servers/Public?sortOrder=Asc&limit=100"))
+
+        
+
+        for _, server in pairs(servers.data) do
+
+            if server.playing < server.maxPlayers and server.id ~= game.JobId then
+
+                TeleportService:TeleportToPlaceInstance(game.PlaceId, server.id, localPlayer)
+
+                break
+
+            end
+
+        end
+
+    end
+
+})
+
+MiscTab:Paragraph({
+
+    Title = "Player Info",
+
+    Desc = "Display Name: " .. localPlayer.DisplayName .. "\nUsername: @" .. localPlayer.Name .. "\nUser ID: " .. localPlayer.UserId,
+
+    Color = "Green"
+
+})
+
+-------------------------------------------------------
+
+--          HOUSE CLONER TAB UI
+
+-------------------------------------------------------
+
+local houseType = "micro_2023"
+
+local selectedHouse = nil
+
+local pasteTextures = false
+
+HouseClonerTab:Paragraph({
+
+    Title = "House Cloner",
+
+    Desc = "Clone, save, load and scan houses",
+
+    Image = "home",
+
+    Color = "Blue"
+
+})
+
+HouseClonerTab:Dropdown({
+
+    Title = "Select House Type",
+
+    Values = {"micro_2023", "small_2023", "villa_2023"},
+
+    Multi = false,
+
+    Default = houseType,
+
+    Callback = function(option)
+
+        houseType = option
+
+        print("Selected house type:", option)
+
+    end
+
+})
+
+HouseClonerTab:Dropdown({
+
+    Title = "Select House File",
+
+    Values = {"House1", "House2", "House3"},
+
+    Multi = false,
+
+    Default = "House1",
+
+    Callback = function(option)
+
+        selectedHouse = option
+
+        print("Selected file:", option)
+
+    end
+
+})
+
+HouseClonerTab:Button({
+
+    Title = "Refresh Files",
+
+    Icon = "refresh-ccw",
+
+    Callback = function()
+
+        print("Refreshing files...")
+
+        WindUI:Notify({
+
+            Title = "Refreshing",
+
+            Content = "Reloading house files...",
+
+            Icon = "loader",
+
+            Duration = 2
+
+        })
+
+    end
+
+})
+
+HouseClonerTab:Button({
+
+    Title = "Save House to File",
+
+    Icon = "save",
+
+    Callback = function()
+
+        print("Save house clicked.")
+
+        WindUI:Notify({
+
+            Title = "Saving",
+
+            Content = "Saving house to file...",
+
+            Icon = "save",
+
+            Duration = 2
+
+        })
+
+    end
+
+})
+
+HouseClonerTab:Button({
+
+    Title = "Load House from File",
+
+    Icon = "folder-open",
+
+    Callback = function()
+
+        print("Load house clicked.")
+
+        WindUI:Notify({
+
+            Title = "Loading",
+
+            Content = "Loading house from file...",
+
+            Icon = "folder-open",
+
+            Duration = 2
+
+        })
+
+    end
+
+})
+
+HouseClonerTab:Button({
+
+    Title = "Scan House",
+
+    Icon = "search",
+
+    Callback = function()
+
+        print("Scanning house...")
+
+        WindUI:Notify({
+
+            Title = "Scanning",
+
+            Content = "Scanning current house...",
+
+            Icon = "search",
+
+            Duration = 2
+
+        })
+
+    end
+
+})
+
+HouseClonerTab:Toggle({
+
+    Title = "Paste Textures",
+
+    Default = false,
+
+    Callback = function(val)
+
+        pasteTextures = val
+
+        print("Paste textures:", val)
+
+    end
+
+})
+
+HouseClonerTab:Paragraph({
+
+    Title = "⚠️ Warning",
+
+    Desc = "Do not touch unless you know what you're doing.",
+
+    Color = "Red"
+
+})
+
+-------------------------------------------------------
+
+--          DISCORD TAB UI
+
+-------------------------------------------------------
+
+DiscordTab:Paragraph({
+
+    Title = "Join Our Discord!",
+
+    Desc = "Click the button below to copy the invite link",
+
+    Image = "users",
+
+    Color = "Blue"
+
+})
+
+DiscordTab:Button({
+
+    Title = "Copy Discord Invite",
+
+    Icon = "users",
+
+    Callback = function()
+
+        task.spawn(function()
+
+            setclipboard("https://discord.gg/QAHpsPn2")
+
+            WindUI:Notify({
+
+                Title = "Copied",
+
+                Content = "Discord invite copied to clipboard!",
+
+                Icon = "check",
+
+                Duration = 3
+
+            })
+
+        end)
+
+    end
+
+})
+
+DiscordTab:Paragraph({
+
+    Title = "Support",
+
+    Desc = "Join our Discord for:\n• Updates & announcements\n• Bug reports\n• Feature requests\n• Community support",
+
+    Color = "Green"
+
+})
+
+-------------------------------------------------------
+
+--          FINAL NOTIFICATION
+
+-------------------------------------------------------
+
+WindUI:Notify({
+
+    Title = "Lunn Hub Loaded",
+
+    Content = "All features ready to use!",
+
+    Icon = "check",
+
+    Duration = 5
+
+})
+
+print("[Lunn Hub] Successfully loaded!")
+
+print("[Lunn Hub] Press K to toggle UI")
